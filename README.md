@@ -1,4 +1,4 @@
-## SchemaTOD - End-to-End Task-Oriented Dialogue Systems Based on Schema
+## SchemaTOD - A Schema-aware End-to-End model for Task-Oriented Dialogue Systems
 This is the codes and data used for the paper.
 
 ### Requirements
