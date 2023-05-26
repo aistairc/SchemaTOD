@@ -1,5 +1,5 @@
-## SchemaTOD - A Schema-aware End-to-End model for Task-Oriented Dialogue Systems
-This is the codes and data used for the paper.
+## A Schema-aware End-to-End model for Task-Oriented Dialogue Systems (SchemaTOD)
+This is a repository for codes and data used for our paper, "End-to-End Task-Oriented Dialogue Systems Based on Schema", accepted to Findings of ACL 2023.
 
 ### Requirements
 ```python
@@ -11,6 +11,8 @@ We preprocessed data from [the Schema-Guided Dialogue dataset](https://github.co
 All preprocessed data are available under `data/sgd-processed`.
 To run the data preprocessing, please follow:
 ```python
+unzip data.zip
+cd SchemaTOD
 python preprocessing.py
 ```
 
