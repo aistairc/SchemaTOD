@@ -8,13 +8,13 @@ pip install -r requirements.txt
 
 ### Data Preprocessing
 We preprocessed data from [the Schema-Guided Dialogue dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue).
-All preprocessed data are available under `data/sgd-processed`.
-To run the data preprocessing, please follow:
+The data are available under `data/sgd-processed`.
+To run the data processing, please follow:
 ```python
-unzip data.zip
 cd SchemaTOD
 python preprocessing.py
 ```
+This will create two files, `data.json` and `canonical_value_mapping.json`, to `data/sgd-processed`.
 
 ### Data Format
 The example turns in a processed dialogue from `data/sgd-processed/data.json`.
@@ -102,6 +102,9 @@ python train.py -mode test -cfg batch_size=16 inference_path=experiments/all_tri
 - `use_all_previous_context`: whether to use all information in the dialogue history (i.e. bspn, dspn, db pointer, aspn, and resp) 
 - `do_sample`: whether to use sampling method, default=False
 - `temperature`: a value [0, 1] to decrease/increase the next token probabilities, default=0.7
+
+### Citation
+If you use the resources in this repository for your scientific publications, please kindly cite our paper as follows: `TBA`
 
 ### Acknowledgements
 The code is implemented based on the released codes of the following papers:
