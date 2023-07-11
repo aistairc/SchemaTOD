@@ -1,5 +1,5 @@
 ## A Schema-aware End-to-End model for Task-Oriented Dialogue Systems (SchemaTOD)
-This is a repository for codes and data used for our paper, "End-to-End Task-Oriented Dialogue Systems Based on Schema", accepted to Findings of ACL 2023.
+This is a repository for codes and data used for our paper, "End-to-End Task-Oriented Dialogue Systems Based on Schema", accepted to Findings of ACL 2023 [[paper]](https://aclanthology.org/2023.findings-acl.645.pdf).
 
 ### Requirements
 ```python
@@ -104,7 +104,21 @@ python train.py -mode test -cfg batch_size=16 inference_path=experiments/all_tri
 - `temperature`: a value [0, 1] to decrease/increase the next token probabilities, default=0.7
 
 ### Citation
-If you use the resources in this repository for your scientific publications, please kindly cite our paper as follows: `TBA`
+If you use the resources in this repository for your scientific publications, please kindly cite our paper as follows:
+```
+@inproceedings{imrattanatrai-fukuda-2023-end,
+    title = "End-to-End Task-Oriented Dialogue Systems Based on Schema",
+    author = "Imrattanatrai, Wiradee  and
+      Fukuda, Ken",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2023",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-acl.645",
+    pages = "10148--10161",
+}
+```
 
 ### Acknowledgements
 The code is implemented based on the released codes of the following papers:
@@ -112,6 +126,6 @@ The code is implemented based on the released codes of the following papers:
 - UBAR: Towards Fully End-to-End Task-Oriented Dialog System with GPT-2 [[paper]](https://arxiv.org/pdf/2012.03539.pdf) [[repo]](https://github.com/TonyNemo/UBAR-MultiWOZ)
 - Improving End-to-End Task-Oriented Dialogue System with A Simple Auxiliary Task [[paper]](https://aclanthology.org/2021.findings-emnlp.112.pdf) [[repo]](https://github.com/bepoetree/MTTOD)
 
-We thank the authors of the papers for releasing their high quality codes for the purpose of research development.
+We thank the authors of the papers for releasing their high-quality codes for the purpose of research development.
 
 In addition, we would like to thank HuggingFace for all pre-trained models and libraries.
