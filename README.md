@@ -8,13 +8,17 @@ pip install -r requirements.txt
 
 ### Data Preprocessing
 We preprocessed data from [the Schema-Guided Dialogue dataset](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue).
-The data are available under `data/sgd-processed`.
-To run the data processing, please follow:
+```python
+cd data
+git clone https://github.com/google-research-datasets/dstc8-schema-guided-dialogue.git
+```
+
+To process on the SGD dataset,
 ```python
 cd SchemaTOD
 python preprocessing.py
 ```
-This will create two files, `data.json` and `canonical_value_mapping.json`, to `data/sgd-processed`.
+This will create necessary files to `data/sgd-processed` and `db`.
 
 ### Data Format
 The example turns in a processed dialogue from `data/sgd-processed/data.json`.
