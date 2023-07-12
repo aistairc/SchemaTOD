@@ -1,0 +1,1307 @@
+[
+  {
+    "actors": "edoardo pesce",
+    "director": "matteo garrone",
+    "genre": "drama",
+    "movie_name": "dogman",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 0
+  },
+  {
+    "actors": "angelina jolie",
+    "director": "iain softley",
+    "genre": "drama",
+    "movie_name": "hackers",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 1
+  },
+  {
+    "actors": "andre 3000",
+    "director": "claire denis",
+    "genre": "drama",
+    "movie_name": "high life",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 2
+  },
+  {
+    "actors": "luke kirby",
+    "director": "nia dacosta",
+    "genre": "drama",
+    "movie_name": "little woods",
+    "price": "3",
+    "subtitle_language": "english",
+    "id": 3
+  },
+  {
+    "actors": "chiwetel ejiofor",
+    "director": "garth davis",
+    "genre": "drama",
+    "movie_name": "mary magdalene",
+    "price": "7",
+    "subtitle_language": "mandarin",
+    "id": 4
+  },
+  {
+    "actors": "takumi saitoh",
+    "director": "eric khoo",
+    "genre": "drama",
+    "movie_name": "ramen shop",
+    "price": "7",
+    "subtitle_language": "spanish",
+    "id": 5
+  },
+  {
+    "actors": "robin soans",
+    "director": "trevor nunn",
+    "genre": "drama",
+    "movie_name": "red joan",
+    "price": "7",
+    "subtitle_language": "mandarin",
+    "id": 6
+  },
+  {
+    "actors": "deng jing",
+    "director": "qui sheng",
+    "genre": "drama",
+    "movie_name": "suburban birds",
+    "price": "3",
+    "subtitle_language": "spanish",
+    "id": 7
+  },
+  {
+    "actors": "christian harting",
+    "director": "laszlo nemes",
+    "genre": "drama",
+    "movie_name": "sunset",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 8
+  },
+  {
+    "actors": "peris wambui",
+    "director": "likarion wainaina",
+    "genre": "drama",
+    "movie_name": "supa modo",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 9
+  },
+  {
+    "actors": "rune temte",
+    "director": "anna boden",
+    "genre": "adventure",
+    "movie_name": "captain marvel",
+    "price": "4",
+    "subtitle_language": "spanish",
+    "id": 10
+  },
+  {
+    "actors": "mark strong",
+    "director": "david sandberg",
+    "genre": "adventure",
+    "movie_name": "shazam!",
+    "price": "5",
+    "subtitle_language": "spanish",
+    "id": 11
+  },
+  {
+    "actors": "fred sadoff",
+    "director": "ronald neame",
+    "genre": "adventure",
+    "movie_name": "the poseidon adventure",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 12
+  },
+  {
+    "actors": "elizabeth marvel",
+    "director": "joel coen",
+    "genre": "adventure",
+    "movie_name": "true grit",
+    "price": "7",
+    "subtitle_language": "spanish",
+    "id": 13
+  },
+  {
+    "actors": "matt damon",
+    "director": "joel coen",
+    "genre": "adventure",
+    "movie_name": "true grit",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 14
+  },
+  {
+    "actors": "alix talton",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "4",
+    "subtitle_language": "mandarin",
+    "id": 15
+  },
+  {
+    "actors": "brinke stevens",
+    "director": "brian de palma",
+    "genre": "mystery",
+    "movie_name": "body double",
+    "price": "7",
+    "subtitle_language": "mandarin",
+    "id": 16
+  },
+  {
+    "actors": "b.j. jones",
+    "director": "brian de palma",
+    "genre": "mystery",
+    "movie_name": "body double",
+    "price": "6",
+    "subtitle_language": "english",
+    "id": 17
+  },
+  {
+    "actors": "kevin blatch",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 18
+  },
+  {
+    "actors": "victor banerjee",
+    "director": "claire denis",
+    "genre": "drama",
+    "movie_name": "high life",
+    "price": "7",
+    "subtitle_language": "spanish",
+    "id": 19
+  },
+  {
+    "actors": "katharine isabelle",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "6",
+    "subtitle_language": "english",
+    "id": 20
+  },
+  {
+    "actors": "jay baruchel",
+    "director": "dean deblois",
+    "genre": "animation",
+    "movie_name": "how to train your dragon: the hidden world",
+    "price": "8",
+    "subtitle_language": "mandarin",
+    "id": 21
+  },
+  {
+    "actors": "america ferrera",
+    "director": "dean deblois",
+    "genre": "animation",
+    "movie_name": "how to train your dragon: the hidden world",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 22
+  },
+  {
+    "actors": "alfred hitchcock",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "6",
+    "subtitle_language": "spanish",
+    "id": 23
+  },
+  {
+    "actors": "david dunston",
+    "director": "tyler perry",
+    "genre": "comedy",
+    "movie_name": "a madea family funeral",
+    "price": "4",
+    "subtitle_language": "mandarin",
+    "id": 24
+  },
+  {
+    "actors": "saundra edwards",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 25
+  },
+  {
+    "actors": "roy stephens",
+    "director": "stanley kubrick",
+    "genre": "comedy",
+    "movie_name": "dr. strangelove",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 26
+  },
+  {
+    "actors": "karan kendrick",
+    "director": "laura steinel",
+    "genre": "comedy",
+    "movie_name": "family",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 27
+  },
+  {
+    "actors": "tyson ritter",
+    "director": "sebastian lelio",
+    "genre": "comedy",
+    "movie_name": "gloria bell",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 28
+  },
+  {
+    "actors": "von lewis",
+    "director": "peter farrelly",
+    "genre": "comedy",
+    "movie_name": "green book",
+    "price": "4",
+    "subtitle_language": "spanish",
+    "id": 29
+  },
+  {
+    "actors": "palmer williams jr.",
+    "director": "tina gordon",
+    "genre": "comedy",
+    "movie_name": "little",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 30
+  },
+  {
+    "actors": "kurt braunohler",
+    "director": "jonathan levine",
+    "genre": "comedy",
+    "movie_name": "long shot",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 31
+  },
+  {
+    "actors": "stephen fry",
+    "director": "chris butler",
+    "genre": "comedy",
+    "movie_name": "missing link",
+    "price": "8",
+    "subtitle_language": "spanish",
+    "id": 32
+  },
+  {
+    "actors": "holland taylor",
+    "director": "sebastian lelio",
+    "genre": "comedy",
+    "movie_name": "gloria bell",
+    "price": "7",
+    "subtitle_language": "mandarin",
+    "id": 33
+  },
+  {
+    "actors": "larry jenkins",
+    "director": "brian de palma",
+    "genre": "mystery",
+    "movie_name": "body double",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 34
+  },
+  {
+    "actors": "gideon adlon",
+    "director": "laure de clermont-tonnerre",
+    "genre": "drama",
+    "movie_name": "the mustang",
+    "price": "7",
+    "subtitle_language": "english",
+    "id": 35
+  },
+  {
+    "actors": "matthias schoenaerts",
+    "director": "laure de clermont-tonnerre",
+    "genre": "drama",
+    "movie_name": "the mustang",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 36
+  },
+  {
+    "actors": "bess flowers",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "8",
+    "subtitle_language": "spanish",
+    "id": 37
+  },
+  {
+    "actors": "noel willman",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 38
+  },
+  {
+    "actors": "keshia knight pulliam",
+    "director": "michael schultz",
+    "genre": "action",
+    "movie_name": "the last dragon",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 39
+  },
+  {
+    "actors": "mark seliger",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 40
+  },
+  {
+    "actors": "brian stepanek",
+    "director": "peter farrelly",
+    "genre": "comedy",
+    "movie_name": "green book",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 41
+  },
+  {
+    "actors": "loren dean",
+    "director": "cameron crowe",
+    "genre": "romance",
+    "movie_name": "say anything",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 42
+  },
+  {
+    "actors": "edd osmond",
+    "director": "tim burton",
+    "genre": "fantasy",
+    "movie_name": "dumbo",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 43
+  },
+  {
+    "actors": "yash trivedi",
+    "director": "anthony maras",
+    "genre": "thriller",
+    "movie_name": "hotel mumbai",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 44
+  },
+  {
+    "actors": "julia jenni karagioules",
+    "director": "kevin kolsch",
+    "genre": "thriller",
+    "movie_name": "pet sematary",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 45
+  },
+  {
+    "actors": "topher grace",
+    "director": "roxann dawson",
+    "genre": "biographical",
+    "movie_name": "breakthrough",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 46
+  },
+  {
+    "actors": "stella maxwell",
+    "director": "justin kelly",
+    "genre": "biographical",
+    "movie_name": "jt leroy",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 47
+  },
+  {
+    "actors": "dennis coffey",
+    "director": "malik bendjelloul",
+    "genre": "biographical",
+    "movie_name": "searching for sugar man",
+    "price": "5",
+    "subtitle_language": "english",
+    "id": 48
+  },
+  {
+    "actors": "jack white",
+    "director": "martin scorsese",
+    "genre": "biographical",
+    "movie_name": "shine a light",
+    "price": "6",
+    "subtitle_language": "mandarin",
+    "id": 49
+  },
+  {
+    "actors": "taylor schilling",
+    "director": "laura steinel",
+    "genre": "comedy",
+    "movie_name": "family",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 50
+  },
+  {
+    "actors": "don hewitt",
+    "director": "iain softley",
+    "genre": "drama",
+    "movie_name": "hackers",
+    "price": "8",
+    "subtitle_language": "spanish",
+    "id": 51
+  },
+  {
+    "actors": "alida baldari calabria",
+    "director": "matteo garrone",
+    "genre": "drama",
+    "movie_name": "dogman",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 52
+  },
+  {
+    "actors": "samuel larsen",
+    "director": "jenny gage",
+    "genre": "romance",
+    "movie_name": "after",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 53
+  },
+  {
+    "actors": "jennifer beals",
+    "director": "jenny gage",
+    "genre": "romance",
+    "movie_name": "after",
+    "price": "4",
+    "subtitle_language": "english",
+    "id": 54
+  },
+  {
+    "actors": "jennifer badger",
+    "director": "iain softley",
+    "genre": "drama",
+    "movie_name": "hackers",
+    "price": "7",
+    "subtitle_language": "spanish",
+    "id": 55
+  },
+  {
+    "actors": "tom virtue",
+    "director": "peter farrelly",
+    "genre": "comedy",
+    "movie_name": "green book",
+    "price": "5",
+    "subtitle_language": "english",
+    "id": 56
+  },
+  {
+    "actors": "nellex nderitu",
+    "director": "likarion wainaina",
+    "genre": "drama",
+    "movie_name": "supa modo",
+    "price": "8",
+    "subtitle_language": "mandarin",
+    "id": 57
+  },
+  {
+    "actors": "martin wolfson",
+    "director": "elaine may",
+    "genre": "mafia",
+    "movie_name": "mikey and nicky",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 58
+  },
+  {
+    "actors": "andrene ward-hammond",
+    "director": "laura steinel",
+    "genre": "comedy",
+    "movie_name": "family",
+    "price": "8",
+    "subtitle_language": "mandarin",
+    "id": 59
+  },
+  {
+    "actors": "wes bentley",
+    "director": "robin bissell",
+    "genre": "drama",
+    "movie_name": "the best of enemies",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 60
+  },
+  {
+    "actors": "alex gerry",
+    "director": "michael gordon",
+    "genre": "romance",
+    "movie_name": "pillow talk",
+    "price": "6",
+    "subtitle_language": "english",
+    "id": 61
+  },
+  {
+    "actors": "ashley springer",
+    "director": "tom mccarthy",
+    "genre": "romance",
+    "movie_name": "the visitor",
+    "price": "4",
+    "subtitle_language": "mandarin",
+    "id": 62
+  },
+  {
+    "actors": "ruth carlson",
+    "director": "george sidney",
+    "genre": "romance",
+    "movie_name": "viva las vegas",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 63
+  },
+  {
+    "actors": "adriana altaras",
+    "director": "claus rafle",
+    "genre": "documentary",
+    "movie_name": "the invisibles",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 64
+  },
+  {
+    "actors": "miguel munoz segura",
+    "director": "tim burton",
+    "genre": "fantasy",
+    "movie_name": "dumbo",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 65
+  },
+  {
+    "actors": "thomas haden church",
+    "director": "neil marshall",
+    "genre": "fantasy",
+    "movie_name": "hellboy",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 66
+  },
+  {
+    "actors": "riley keough",
+    "director": "george miller",
+    "genre": "fantasy",
+    "movie_name": "mad max: fury road",
+    "price": "4",
+    "subtitle_language": "mandarin",
+    "id": 67
+  },
+  {
+    "actors": "megumi han",
+    "director": "hiroyasu ishida",
+    "genre": "fantasy",
+    "movie_name": "penguin highway",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 68
+  },
+  {
+    "actors": "mason lee",
+    "director": "qui sheng",
+    "genre": "drama",
+    "movie_name": "suburban birds",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 69
+  },
+  {
+    "actors": "larry barton",
+    "director": "george sidney",
+    "genre": "romance",
+    "movie_name": "viva las vegas",
+    "price": "5",
+    "subtitle_language": "english",
+    "id": 70
+  },
+  {
+    "actors": "larry barton",
+    "director": "george sidney",
+    "genre": "romance",
+    "movie_name": "viva las vegas",
+    "price": "3",
+    "subtitle_language": "spanish",
+    "id": 71
+  },
+  {
+    "actors": "jack daly",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "6",
+    "subtitle_language": "english",
+    "id": 72
+  },
+  {
+    "actors": "ciera payton",
+    "director": "tyler perry",
+    "genre": "comedy",
+    "movie_name": "a madea family funeral",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 73
+  },
+  {
+    "actors": "stycie waweru",
+    "director": "likarion wainaina",
+    "genre": "drama",
+    "movie_name": "supa modo",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 74
+  },
+  {
+    "actors": "amadeus strobl",
+    "director": "jenny gage",
+    "genre": "romance",
+    "movie_name": "after",
+    "price": "7",
+    "subtitle_language": "spanish",
+    "id": 75
+  },
+  {
+    "actors": "sonny bupp",
+    "director": "orson welles",
+    "genre": "mystery",
+    "movie_name": "citizen kane",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 76
+  },
+  {
+    "actors": "barbara crampton",
+    "director": "brian de palma",
+    "genre": "mystery",
+    "movie_name": "body double",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 77
+  },
+  {
+    "actors": "dan dimaggio",
+    "director": "malik bendjelloul",
+    "genre": "biographical",
+    "movie_name": "searching for sugar man",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 78
+  },
+  {
+    "actors": "michelle borth",
+    "director": "david sandberg",
+    "genre": "adventure",
+    "movie_name": "shazam!",
+    "price": "8",
+    "subtitle_language": "english",
+    "id": 79
+  },
+  {
+    "actors": "stephen boxer",
+    "director": "trevor nunn",
+    "genre": "drama",
+    "movie_name": "red joan",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 80
+  },
+  {
+    "actors": "colin farrell",
+    "director": "tim burton",
+    "genre": "fantasy",
+    "movie_name": "dumbo",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 81
+  },
+  {
+    "actors": "jeffrey sayre",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 82
+  },
+  {
+    "actors": "laura pizzirani",
+    "director": "matteo garrone",
+    "genre": "drama",
+    "movie_name": "dogman",
+    "price": "5",
+    "subtitle_language": "english",
+    "id": 83
+  },
+  {
+    "actors": "lena headey",
+    "director": "stephen merchant",
+    "genre": "sports",
+    "movie_name": "fighting with my family",
+    "price": "3",
+    "subtitle_language": "mandarin",
+    "id": 84
+  },
+  {
+    "actors": "nick frost",
+    "director": "stephen merchant",
+    "genre": "sports",
+    "movie_name": "fighting with my family",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 85
+  },
+  {
+    "actors": "paul davis",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 86
+  },
+  {
+    "actors": "harry fleer",
+    "director": "george sidney",
+    "genre": "romance",
+    "movie_name": "viva las vegas",
+    "price": "5",
+    "subtitle_language": "spanish",
+    "id": 87
+  },
+  {
+    "actors": "penelope mitchell",
+    "director": "neil marshall",
+    "genre": "fantasy",
+    "movie_name": "hellboy",
+    "price": "8",
+    "subtitle_language": "spanish",
+    "id": 88
+  },
+  {
+    "actors": "chris lovick",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 89
+  },
+  {
+    "actors": "matt walsh",
+    "director": "laura steinel",
+    "genre": "comedy",
+    "movie_name": "family",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 90
+  },
+  {
+    "actors": "rome flynn",
+    "director": "tyler perry",
+    "genre": "comedy",
+    "movie_name": "a madea family funeral",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 91
+  },
+  {
+    "actors": "p. j. byrne",
+    "director": "peter farrelly",
+    "genre": "comedy",
+    "movie_name": "green book",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 92
+  },
+  {
+    "actors": "doris day",
+    "director": "michael gordon",
+    "genre": "romance",
+    "movie_name": "pillow talk",
+    "price": "3",
+    "subtitle_language": "spanish",
+    "id": 93
+  },
+  {
+    "actors": "doris day",
+    "director": "michael gordon",
+    "genre": "romance",
+    "movie_name": "pillow talk",
+    "price": "7",
+    "subtitle_language": "mandarin",
+    "id": 94
+  },
+  {
+    "actors": "stuart lilley",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 95
+  },
+  {
+    "actors": "elsa palmer",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 96
+  },
+  {
+    "actors": "coral browne",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 97
+  },
+  {
+    "actors": "missi pyle",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "4",
+    "subtitle_language": "english",
+    "id": 98
+  },
+  {
+    "actors": "thomas martin",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 99
+  },
+  {
+    "actors": "dimiter marinov",
+    "director": "peter farrelly",
+    "genre": "comedy",
+    "movie_name": "green book",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 100
+  },
+  {
+    "actors": "lela bliss",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "3",
+    "subtitle_language": "mandarin",
+    "id": 101
+  },
+  {
+    "actors": "reuben greene",
+    "director": "elaine may",
+    "genre": "mafia",
+    "movie_name": "mikey and nicky",
+    "price": "6",
+    "subtitle_language": "mandarin",
+    "id": 102
+  },
+  {
+    "actors": "ruairi o'connor",
+    "director": "max minghella",
+    "genre": "musical",
+    "movie_name": "teen spirit",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 103
+  },
+  {
+    "actors": "johnny myers",
+    "director": "iain softley",
+    "genre": "drama",
+    "movie_name": "hackers",
+    "price": "4",
+    "subtitle_language": "spanish",
+    "id": 104
+  },
+  {
+    "actors": "johnny myers",
+    "director": "iain softley",
+    "genre": "drama",
+    "movie_name": "hackers",
+    "price": "8",
+    "subtitle_language": "english",
+    "id": 105
+  },
+  {
+    "actors": "mark lee",
+    "director": "eric khoo",
+    "genre": "drama",
+    "movie_name": "ramen shop",
+    "price": "8",
+    "subtitle_language": "mandarin",
+    "id": 106
+  },
+  {
+    "actors": "bruce willis",
+    "director": "martin scorsese",
+    "genre": "biographical",
+    "movie_name": "shine a light",
+    "price": "4",
+    "subtitle_language": "spanish",
+    "id": 107
+  },
+  {
+    "actors": "harry shannon",
+    "director": "orson welles",
+    "genre": "mystery",
+    "movie_name": "citizen kane",
+    "price": "4",
+    "subtitle_language": "spanish",
+    "id": 108
+  },
+  {
+    "actors": "leslie nielsen",
+    "director": "ronald neame",
+    "genre": "adventure",
+    "movie_name": "the poseidon adventure",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 109
+  },
+  {
+    "actors": "sally hershberger",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "6",
+    "subtitle_language": "spanish",
+    "id": 110
+  },
+  {
+    "actors": "bob hastings",
+    "director": "ronald neame",
+    "genre": "adventure",
+    "movie_name": "the poseidon adventure",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 111
+  },
+  {
+    "actors": "rebecca staab",
+    "director": "roxann dawson",
+    "genre": "biographical",
+    "movie_name": "breakthrough",
+    "price": "5",
+    "subtitle_language": "mandarin",
+    "id": 112
+  },
+  {
+    "actors": "ex-det. sergt. bishop",
+    "director": "alfred hitchcock",
+    "genre": "crime",
+    "movie_name": "blackmail - cinemix par chloe",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 113
+  },
+  {
+    "actors": "james stewart",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 114
+  },
+  {
+    "actors": "anna katharina schimrigk",
+    "director": "james kent",
+    "genre": "war",
+    "movie_name": "the aftermath",
+    "price": "4",
+    "subtitle_language": "none",
+    "id": 115
+  },
+  {
+    "actors": "mahershala ali",
+    "director": "peter farrelly",
+    "genre": "comedy",
+    "movie_name": "green book",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 116
+  },
+  {
+    "actors": "claire tran",
+    "director": "claire denis",
+    "genre": "drama",
+    "movie_name": "high life",
+    "price": "5",
+    "subtitle_language": "english",
+    "id": 117
+  },
+  {
+    "actors": "judith hofmann",
+    "director": "simon jaquemet",
+    "genre": "drama",
+    "movie_name": "the innocent",
+    "price": "3",
+    "subtitle_language": "mandarin",
+    "id": 118
+  },
+  {
+    "actors": "seiko matsuda",
+    "director": "eric khoo",
+    "genre": "drama",
+    "movie_name": "ramen shop",
+    "price": "5",
+    "subtitle_language": "none",
+    "id": 119
+  },
+  {
+    "actors": "quentin kenihan",
+    "director": "george miller",
+    "genre": "fantasy",
+    "movie_name": "mad max: fury road",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 120
+  },
+  {
+    "actors": "buddy guy",
+    "director": "martin scorsese",
+    "genre": "biographical",
+    "movie_name": "shine a light",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 121
+  },
+  {
+    "actors": "wendell pierce",
+    "director": "iain softley",
+    "genre": "drama",
+    "movie_name": "hackers",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 122
+  },
+  {
+    "actors": "tone bell",
+    "director": "tina gordon",
+    "genre": "comedy",
+    "movie_name": "little",
+    "price": "5",
+    "subtitle_language": "spanish",
+    "id": 123
+  },
+  {
+    "actors": "gregory gaye",
+    "director": "morton dacosta",
+    "genre": "comedy",
+    "movie_name": "auntie mame",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 124
+  },
+  {
+    "actors": "giancarlo porcacchia",
+    "director": "matteo garrone",
+    "genre": "drama",
+    "movie_name": "dogman",
+    "price": "6",
+    "subtitle_language": "spanish",
+    "id": 125
+  },
+  {
+    "actors": "michael buffer",
+    "director": "tim burton",
+    "genre": "fantasy",
+    "movie_name": "dumbo",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 126
+  },
+  {
+    "actors": "shira haas",
+    "director": "garth davis",
+    "genre": "drama",
+    "movie_name": "mary magdalene",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 127
+  },
+  {
+    "actors": "samuel l. jackson",
+    "director": "anna boden",
+    "genre": "adventure",
+    "movie_name": "captain marvel",
+    "price": "6",
+    "subtitle_language": "english",
+    "id": 128
+  },
+  {
+    "actors": "enuka okuma",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "5",
+    "subtitle_language": "english",
+    "id": 129
+  },
+  {
+    "actors": "enuka okuma",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "8",
+    "subtitle_language": "mandarin",
+    "id": 130
+  },
+  {
+    "actors": "lee patrick",
+    "director": "michael gordon",
+    "genre": "romance",
+    "movie_name": "pillow talk",
+    "price": "4",
+    "subtitle_language": "mandarin",
+    "id": 131
+  },
+  {
+    "actors": "milton frome",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 132
+  },
+  {
+    "actors": "shayn solberg",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "6",
+    "subtitle_language": "none",
+    "id": 133
+  },
+  {
+    "actors": "claude de martino",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "8",
+    "subtitle_language": "none",
+    "id": 134
+  },
+  {
+    "actors": "kevin bergsma",
+    "director": "harry elfont",
+    "genre": "comedy",
+    "movie_name": "josie and the pussycats",
+    "price": "8",
+    "subtitle_language": "spanish",
+    "id": 135
+  },
+  {
+    "actors": "david brown",
+    "director": "justin kelly",
+    "genre": "biographical",
+    "movie_name": "jt leroy",
+    "price": "8",
+    "subtitle_language": "english",
+    "id": 136
+  },
+  {
+    "actors": "robert kazinsky",
+    "director": "anna boden",
+    "genre": "adventure",
+    "movie_name": "captain marvel",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 137
+  },
+  {
+    "actors": "selma blair",
+    "director": "jenny gage",
+    "genre": "romance",
+    "movie_name": "after",
+    "price": "3",
+    "subtitle_language": "spanish",
+    "id": 138
+  },
+  {
+    "actors": "randall park",
+    "director": "jonathan levine",
+    "genre": "comedy",
+    "movie_name": "long shot",
+    "price": "3",
+    "subtitle_language": "none",
+    "id": 139
+  },
+  {
+    "actors": "alexis bobrinskoy",
+    "director": "alfred hitchcock",
+    "genre": "drama",
+    "movie_name": "the man who knew too much",
+    "price": "8",
+    "subtitle_language": "mandarin",
+    "id": 140
+  },
+  {
+    "actors": "laurence herder",
+    "director": "stanley kubrick",
+    "genre": "comedy",
+    "movie_name": "dr. strangelove",
+    "price": "3",
+    "subtitle_language": "mandarin",
+    "id": 141
+  },
+  {
+    "actors": "vince pisani",
+    "director": "tina gordon",
+    "genre": "comedy",
+    "movie_name": "little",
+    "price": "7",
+    "subtitle_language": "none",
+    "id": 142
+  },
+  {
+    "actors": "jeanette aw",
+    "director": "eric khoo",
+    "genre": "drama",
+    "movie_name": "ramen shop",
+    "price": "3",
+    "subtitle_language": "english",
+    "id": 143
+  },
+  {
+    "actors": "jeanette aw",
+    "director": "eric khoo",
+    "genre": "drama",
+    "movie_name": "ramen shop",
+    "price": "5",
+    "subtitle_language": "spanish",
+    "id": 144
+  }
+]

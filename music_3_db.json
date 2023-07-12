@@ -1,0 +1,5924 @@
+[
+  {
+    "album": "firestone",
+    "artist": "kygo",
+    "genre": "downtempo",
+    "track": "firestone",
+    "year": "2014",
+    "device": "?",
+    "id": 0
+  },
+  {
+    "album": "owna lane",
+    "artist": "tee jay",
+    "genre": "reggae",
+    "track": "owna lane",
+    "year": "2019",
+    "device": "?",
+    "id": 1
+  },
+  {
+    "album": "outsider",
+    "artist": "three days grace",
+    "genre": "rock",
+    "track": "right left wrong",
+    "year": "2018",
+    "device": "?",
+    "id": 2
+  },
+  {
+    "album": "sad",
+    "artist": "matthew david morris",
+    "genre": "pop",
+    "track": "sad",
+    "year": "2019",
+    "device": "?",
+    "id": 3
+  },
+  {
+    "album": "monsters",
+    "artist": "katie sky",
+    "genre": "folk",
+    "track": "monsters",
+    "year": "2014",
+    "device": "?",
+    "id": 4
+  },
+  {
+    "album": "russia",
+    "artist": "nav sandhu",
+    "genre": "pop",
+    "track": "russia",
+    "year": "2019",
+    "device": "?",
+    "id": 5
+  },
+  {
+    "album": "lifers",
+    "artist": "cody jinks",
+    "genre": "country",
+    "track": "must be the whiskey",
+    "year": "2018",
+    "device": "?",
+    "id": 6
+  },
+  {
+    "album": "girl power",
+    "artist": "haschak sisters",
+    "genre": "pop",
+    "track": "girl power",
+    "year": "2018",
+    "device": "?",
+    "id": 7
+  },
+  {
+    "album": "up",
+    "artist": "sena kana",
+    "genre": "pop",
+    "track": "up",
+    "year": "2019",
+    "device": "?",
+    "id": 8
+  },
+  {
+    "album": "ores aixmis",
+    "artist": "malou kyriakopoulou",
+    "genre": "pop",
+    "track": "nixta ginontai ta thavmata",
+    "year": "2019",
+    "device": "living room",
+    "id": 9
+  },
+  {
+    "album": "hozier",
+    "artist": "hozier",
+    "genre": "blues",
+    "track": "someone new",
+    "year": "2014",
+    "device": "?",
+    "id": 10
+  },
+  {
+    "album": "fall",
+    "artist": "davido",
+    "genre": "pop",
+    "track": "fall",
+    "year": "2017",
+    "device": "?",
+    "id": 11
+  },
+  {
+    "album": "bloom",
+    "artist": "troye sivan",
+    "genre": "pop",
+    "track": "bloom",
+    "year": "2018",
+    "device": "?",
+    "id": 12
+  },
+  {
+    "album": "pong dance",
+    "artist": "vigiland",
+    "genre": "pop",
+    "track": "pong dance",
+    "year": "2016",
+    "device": "?",
+    "id": 13
+  },
+  {
+    "album": "gravity",
+    "artist": "jason chen",
+    "genre": "pop",
+    "track": "best friend",
+    "year": "2011",
+    "device": "?",
+    "id": 14
+  },
+  {
+    "album": "younger now",
+    "artist": "miley cyrus",
+    "genre": "pop",
+    "track": "malibu",
+    "year": "2017",
+    "device": "living room",
+    "id": 15
+  },
+  {
+    "album": "lindsey stirling",
+    "artist": "lindsey stirling",
+    "genre": "pop",
+    "track": "crystallize",
+    "year": "2012",
+    "device": "?",
+    "id": 16
+  },
+  {
+    "album": "fight song",
+    "artist": "rachel platten",
+    "genre": "pop",
+    "track": "fight song",
+    "year": "2015",
+    "device": "?",
+    "id": 17
+  },
+  {
+    "album": "silly walks discotheque presents brighter days riddim",
+    "artist": "silly walks movement",
+    "genre": "reggae",
+    "track": "soul provider",
+    "year": "2013",
+    "device": "?",
+    "id": 18
+  },
+  {
+    "album": "adobe sessions",
+    "artist": "cody jinks",
+    "genre": "country",
+    "track": "cast no stones",
+    "year": "2015",
+    "device": "?",
+    "id": 19
+  },
+  {
+    "album": "saula",
+    "artist": "lava lava",
+    "genre": "pop",
+    "track": "saula",
+    "year": "2019",
+    "device": "?",
+    "id": 20
+  },
+  {
+    "album": "dear society",
+    "artist": "madison beer",
+    "genre": "pop",
+    "track": "dear society",
+    "year": "2019",
+    "device": "?",
+    "id": 21
+  },
+  {
+    "album": "the git up",
+    "artist": "blanco brown",
+    "genre": "country",
+    "track": "the git up",
+    "year": "2019",
+    "device": "?",
+    "id": 22
+  },
+  {
+    "album": "crash my party",
+    "artist": "luke bryan",
+    "genre": "country",
+    "track": "roller coaster",
+    "year": "2013",
+    "device": "living room",
+    "id": 23
+  },
+  {
+    "album": "if i know me",
+    "artist": "morgan wallen",
+    "genre": "country",
+    "track": "the way i talk",
+    "year": "2016",
+    "device": "?",
+    "id": 24
+  },
+  {
+    "album": "i will never let you down",
+    "artist": "rita ora",
+    "genre": "africa",
+    "track": "i will never let you down",
+    "year": "2014",
+    "device": "?",
+    "id": 25
+  },
+  {
+    "album": "i want you",
+    "artist": "daniel skye",
+    "genre": "pop",
+    "track": "i want you",
+    "year": "2018",
+    "device": "?",
+    "id": 26
+  },
+  {
+    "album": "old dominion",
+    "artist": "old dominion",
+    "genre": "country",
+    "track": "make it sweet",
+    "year": "2018",
+    "device": "?",
+    "id": 27
+  },
+  {
+    "album": "from the outside",
+    "artist": "hey violet",
+    "genre": "pop",
+    "track": "guys my age",
+    "year": "2016",
+    "device": "?",
+    "id": 28
+  },
+  {
+    "album": "not your barbie girl",
+    "artist": "ava max",
+    "genre": "pop",
+    "track": "not your barbie girl",
+    "year": "2018",
+    "device": "?",
+    "id": 29
+  },
+  {
+    "album": "sucker punch",
+    "artist": "sigrid",
+    "genre": "pop",
+    "track": "strangers",
+    "year": "2017",
+    "device": "living room",
+    "id": 30
+  },
+  {
+    "album": "inna",
+    "artist": "inna",
+    "genre": "pop",
+    "track": "bad boys",
+    "year": "2015",
+    "device": "?",
+    "id": 31
+  },
+  {
+    "album": "this is acting",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "bird set free",
+    "year": "2015",
+    "device": "?",
+    "id": 32
+  },
+  {
+    "album": "get weird",
+    "artist": "little mix",
+    "genre": "pop",
+    "track": "black magic",
+    "year": "2015",
+    "device": "?",
+    "id": 33
+  },
+  {
+    "album": "the bright side",
+    "artist": "lenka",
+    "genre": "pop",
+    "track": "blue skies",
+    "year": "2015",
+    "device": "?",
+    "id": 34
+  },
+  {
+    "album": "stories",
+    "artist": "avicii",
+    "genre": "pop",
+    "track": "broken arrows",
+    "year": "2015",
+    "device": "?",
+    "id": 35
+  },
+  {
+    "album": "this is acting",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "cheap thrills",
+    "year": "2015",
+    "device": "?",
+    "id": 36
+  },
+  {
+    "album": "pentatonix",
+    "artist": "pentatonix",
+    "genre": "pop",
+    "track": "cheerleader",
+    "year": "2015",
+    "device": "?",
+    "id": 37
+  },
+  {
+    "album": "double vision",
+    "artist": "prince royce",
+    "genre": "pop",
+    "track": "back it up",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 38
+  },
+  {
+    "album": "home state",
+    "artist": "jordan davis",
+    "genre": "country",
+    "track": "take it from me",
+    "year": "2017",
+    "device": "?",
+    "id": 39
+  },
+  {
+    "album": "back to life",
+    "artist": "rascal flatts",
+    "genre": "country",
+    "track": "back to life",
+    "year": "2018",
+    "device": "?",
+    "id": 40
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "if i killed someone for you",
+    "year": "2018",
+    "device": "?",
+    "id": 41
+  },
+  {
+    "album": "sinnga",
+    "artist": "vijay prakash",
+    "genre": "south asia",
+    "track": "shaane top agavle",
+    "year": "2019",
+    "device": "?",
+    "id": 42
+  },
+  {
+    "album": "welcome reality",
+    "artist": "nero",
+    "genre": "dubstep",
+    "track": "promises",
+    "year": "2011",
+    "device": "?",
+    "id": 43
+  },
+  {
+    "album": "me and my broken heart",
+    "artist": "push baby",
+    "genre": "pop",
+    "track": "me and my broken heart",
+    "year": "2014",
+    "device": "?",
+    "id": 44
+  },
+  {
+    "album": "the new classic",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "black widow",
+    "year": "2014",
+    "device": "living room",
+    "id": 45
+  },
+  {
+    "album": "tetema",
+    "artist": "rayvanny",
+    "genre": "pop",
+    "track": "tetema",
+    "year": "2019",
+    "device": "?",
+    "id": 46
+  },
+  {
+    "album": "essentials",
+    "artist": "major lazer",
+    "genre": "moombahton",
+    "track": "light it up",
+    "year": "2015",
+    "device": "?",
+    "id": 47
+  },
+  {
+    "album": "my kinda party",
+    "artist": "jason aldean",
+    "genre": "country",
+    "track": "dirt road anthem",
+    "year": "2010",
+    "device": "?",
+    "id": 48
+  },
+  {
+    "album": "dangerous woman",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "let me love you",
+    "year": "2016",
+    "device": "?",
+    "id": 49
+  },
+  {
+    "album": "already gone",
+    "artist": "matthew david morris",
+    "genre": "pop",
+    "track": "already gone",
+    "year": "2018",
+    "device": "?",
+    "id": 50
+  },
+  {
+    "album": "chapati",
+    "artist": "undercover",
+    "genre": "trance",
+    "track": "chapati",
+    "year": "2014",
+    "device": "?",
+    "id": 51
+  },
+  {
+    "album": "sweet talker",
+    "artist": "jessie j",
+    "genre": "pop",
+    "track": "masterpiece",
+    "year": "2014",
+    "device": "living room",
+    "id": 52
+  },
+  {
+    "album": "thoughts",
+    "artist": "sasha sloan",
+    "genre": "pop",
+    "track": "thoughts",
+    "year": "2019",
+    "device": "?",
+    "id": 53
+  },
+  {
+    "album": "life is unfair",
+    "artist": "matthew david morris",
+    "genre": "pop",
+    "track": "life is unfair",
+    "year": "2017",
+    "device": "?",
+    "id": 54
+  },
+  {
+    "album": "sad forever",
+    "artist": "lauv",
+    "genre": "pop",
+    "track": "sad forever",
+    "year": "2019",
+    "device": "?",
+    "id": 55
+  },
+  {
+    "album": "bismarck",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "bismarck",
+    "year": "2019",
+    "device": "?",
+    "id": 56
+  },
+  {
+    "album": "jade eagleson",
+    "artist": "jade eagleson",
+    "genre": "country",
+    "track": "got your name on it",
+    "year": "2018",
+    "device": "?",
+    "id": 57
+  },
+  {
+    "album": "voicenotes",
+    "artist": "charlie puth",
+    "genre": "pop",
+    "track": "the way i am",
+    "year": "2018",
+    "device": "patio",
+    "id": 58
+  },
+  {
+    "album": "voicenotes",
+    "artist": "charlie puth",
+    "genre": "pop",
+    "track": "attention",
+    "year": "2017",
+    "device": "?",
+    "id": 59
+  },
+  {
+    "album": "american beauty",
+    "artist": "tori v",
+    "genre": "pop",
+    "track": "barbie girl",
+    "year": "2017",
+    "device": "?",
+    "id": 60
+  },
+  {
+    "album": "bestie",
+    "artist": "yungen",
+    "genre": "pop",
+    "track": "bestie",
+    "year": "2017",
+    "device": "?",
+    "id": 61
+  },
+  {
+    "album": "pop food",
+    "artist": "jack stauber",
+    "genre": "pop",
+    "track": "buttercup",
+    "year": "2017",
+    "device": "?",
+    "id": 62
+  },
+  {
+    "album": "chanel",
+    "artist": "frank ocean",
+    "genre": "pop",
+    "track": "chanel",
+    "year": "2017",
+    "device": "?",
+    "id": 63
+  },
+  {
+    "album": "cherry cola",
+    "artist": "kuwada",
+    "genre": "pop",
+    "track": "cherry cola",
+    "year": "2017",
+    "device": "?",
+    "id": 64
+  },
+  {
+    "album": "sappho",
+    "artist": "zolita",
+    "genre": "pop",
+    "track": "come home with me",
+    "year": "2017",
+    "device": "?",
+    "id": 65
+  },
+  {
+    "album": "holo",
+    "artist": "limbo",
+    "genre": "pop",
+    "track": "airplane mode",
+    "year": "2017",
+    "device": "patio",
+    "id": 66
+  },
+  {
+    "album": "medicine remixes",
+    "artist": "jennifer lopez",
+    "genre": "pop",
+    "track": "medicine",
+    "year": "2019",
+    "device": "?",
+    "id": 67
+  },
+  {
+    "album": "black smoke rising",
+    "artist": "greta van fleet",
+    "genre": "rock",
+    "track": "highway tune",
+    "year": "2017",
+    "device": "kitchen",
+    "id": 68
+  },
+  {
+    "album": "this is acting",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "move your body",
+    "year": "2016",
+    "device": "?",
+    "id": 69
+  },
+  {
+    "album": "this is acting",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "unstoppable",
+    "year": "2016",
+    "device": "?",
+    "id": 70
+  },
+  {
+    "album": "this is acting",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "alive",
+    "year": "2013",
+    "device": "patio",
+    "id": 71
+  },
+  {
+    "album": "the new classic",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "change your life",
+    "year": "2013",
+    "device": "?",
+    "id": 72
+  },
+  {
+    "album": "the new classic",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "work",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 73
+  },
+  {
+    "album": "avril lavigne",
+    "artist": "avril lavigne",
+    "genre": "pop",
+    "track": "hello kitty",
+    "year": "2013",
+    "device": "?",
+    "id": 74
+  },
+  {
+    "album": "who you are",
+    "artist": "jessie j",
+    "genre": "pop",
+    "track": "who you are",
+    "year": "2011",
+    "device": "?",
+    "id": 75
+  },
+  {
+    "album": "team",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "team",
+    "year": "2016",
+    "device": "?",
+    "id": 76
+  },
+  {
+    "album": "sweetener",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "breathin",
+    "year": "2018",
+    "device": "?",
+    "id": 77
+  },
+  {
+    "album": "talk that talk",
+    "artist": "rihanna",
+    "genre": "pop",
+    "track": "where have you been",
+    "year": "2011",
+    "device": "patio",
+    "id": 78
+  },
+  {
+    "album": "if i know me",
+    "artist": "morgan wallen",
+    "genre": "country",
+    "track": "up down",
+    "year": "2018",
+    "device": "?",
+    "id": 79
+  },
+  {
+    "album": "super",
+    "artist": "janob rasul",
+    "genre": "pop",
+    "track": "super",
+    "year": "2019",
+    "device": "?",
+    "id": 80
+  },
+  {
+    "album": "ohh lala la",
+    "artist": "squash",
+    "genre": "reggae",
+    "track": "ohh lala la",
+    "year": "2018",
+    "device": "?",
+    "id": 81
+  },
+  {
+    "album": "exotic",
+    "artist": "priyanka chopra",
+    "genre": "pop",
+    "track": "exotic",
+    "year": "2012",
+    "device": "?",
+    "id": 82
+  },
+  {
+    "album": "girls just gotta have fun",
+    "artist": "sophia grace brownlee",
+    "genre": "pop",
+    "track": "girls just gotta have fun",
+    "year": "2013",
+    "device": "?",
+    "id": 83
+  },
+  {
+    "album": "torches",
+    "artist": "foster the people",
+    "genre": "indie",
+    "track": "houdini",
+    "year": "2011",
+    "device": "kitchen",
+    "id": 84
+  },
+  {
+    "album": "high expectations",
+    "artist": "mabel",
+    "genre": "pop",
+    "track": "mad love",
+    "year": "2019",
+    "device": "?",
+    "id": 85
+  },
+  {
+    "album": "high expectations",
+    "artist": "mabel",
+    "genre": "pop",
+    "track": "selfish love",
+    "year": "2019",
+    "device": "?",
+    "id": 86
+  },
+  {
+    "album": "high expectations",
+    "artist": "mabel",
+    "genre": "pop",
+    "track": "bad behaviour",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 87
+  },
+  {
+    "album": "we are not your kind",
+    "artist": "slipknot",
+    "genre": "rock",
+    "track": "birth of the cruel",
+    "year": "2019",
+    "device": "living room",
+    "id": 88
+  },
+  {
+    "album": "overthinking",
+    "artist": "shy martin",
+    "genre": "pop",
+    "track": "good together",
+    "year": "2017",
+    "device": "living room",
+    "id": 89
+  },
+  {
+    "album": "yours",
+    "artist": "russell dickerson",
+    "genre": "country",
+    "track": "every little thing",
+    "year": "2016",
+    "device": "?",
+    "id": 90
+  },
+  {
+    "album": "one more light",
+    "artist": "linkin park",
+    "genre": "electropop",
+    "track": "one more light",
+    "year": "2017",
+    "device": "?",
+    "id": 91
+  },
+  {
+    "album": "blonde",
+    "artist": "frank ocean",
+    "genre": "pop",
+    "track": "self control",
+    "year": "2016",
+    "device": "?",
+    "id": 92
+  },
+  {
+    "album": "my miracle",
+    "artist": "brad paisley",
+    "genre": "country",
+    "track": "my miracle",
+    "year": "2019",
+    "device": "?",
+    "id": 93
+  },
+  {
+    "album": "glory days",
+    "artist": "little mix",
+    "genre": "pop",
+    "track": "touch",
+    "year": "2016",
+    "device": "patio",
+    "id": 94
+  },
+  {
+    "album": "feelingaa",
+    "artist": "kay vee singh",
+    "genre": "pop",
+    "track": "feelingaa",
+    "year": "2019",
+    "device": "?",
+    "id": 95
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "if we have each other",
+    "year": "2018",
+    "device": "?",
+    "id": 96
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "the attack of the dead men",
+    "year": "2019",
+    "device": "?",
+    "id": 97
+  },
+  {
+    "album": "leave it all behind",
+    "artist": "zeni n",
+    "genre": "pop",
+    "track": "leave it all behind",
+    "year": "2017",
+    "device": "?",
+    "id": 98
+  },
+  {
+    "album": "green light go",
+    "artist": "becky g",
+    "genre": "pop",
+    "track": "green light go",
+    "year": "2019",
+    "device": "?",
+    "id": 99
+  },
+  {
+    "album": "blonde",
+    "artist": "frank ocean",
+    "genre": "pop",
+    "track": "nikes",
+    "year": "2016",
+    "device": "?",
+    "id": 100
+  },
+  {
+    "album": "warrior",
+    "artist": "kesha",
+    "genre": "pop",
+    "track": "die young",
+    "year": "2012",
+    "device": "living room",
+    "id": 101
+  },
+  {
+    "album": "truth",
+    "artist": "brandon beal",
+    "genre": "pop",
+    "track": "twerk it like miley",
+    "year": "2014",
+    "device": "?",
+    "id": 102
+  },
+  {
+    "album": "pumped up kicks",
+    "artist": "foster the people",
+    "genre": "indie",
+    "track": "pumped up kicks",
+    "year": "2010",
+    "device": "?",
+    "id": 103
+  },
+  {
+    "album": "adventure",
+    "artist": "izzamuzzic",
+    "genre": "ambient",
+    "track": "adventure",
+    "year": "2016",
+    "device": "?",
+    "id": 104
+  },
+  {
+    "album": "voicenotes",
+    "artist": "charlie puth",
+    "genre": "pop",
+    "track": "the way i am",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 105
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "the water fountain",
+    "year": "2018",
+    "device": "?",
+    "id": 106
+  },
+  {
+    "album": "get wet",
+    "artist": "fly project",
+    "genre": "pop",
+    "track": "get wet",
+    "year": "2017",
+    "device": "?",
+    "id": 107
+  },
+  {
+    "album": "late night",
+    "artist": "stoto",
+    "genre": "house",
+    "track": "late night",
+    "year": "2016",
+    "device": "?",
+    "id": 108
+  },
+  {
+    "album": "smoke",
+    "artist": "violette wautier",
+    "genre": "pop",
+    "track": "smoke",
+    "year": "2018",
+    "device": "?",
+    "id": 109
+  },
+  {
+    "album": "experiment",
+    "artist": "kane brown",
+    "genre": "country",
+    "track": "lose it",
+    "year": "2018",
+    "device": "?",
+    "id": 110
+  },
+  {
+    "album": "epa wei",
+    "artist": "danny ocean",
+    "genre": "latin",
+    "track": "epa wei",
+    "year": "2018",
+    "device": "?",
+    "id": 111
+  },
+  {
+    "album": "joanne",
+    "artist": "lady gaga",
+    "genre": "pop",
+    "track": "million reasons",
+    "year": "2016",
+    "device": "living room",
+    "id": 112
+  },
+  {
+    "album": "magnum",
+    "artist": "edita abdieski",
+    "genre": "pop",
+    "track": "magnum",
+    "year": "2019",
+    "device": "?",
+    "id": 113
+  },
+  {
+    "album": "what if i never get over you",
+    "artist": "lady antebellum",
+    "genre": "country",
+    "track": "what if i never get over you",
+    "year": "2019",
+    "device": "?",
+    "id": 114
+  },
+  {
+    "album": "party",
+    "artist": "el villano",
+    "genre": "latin",
+    "track": "party",
+    "year": "2018",
+    "device": "?",
+    "id": 115
+  },
+  {
+    "album": "hundred miles",
+    "artist": "yall",
+    "genre": "house",
+    "track": "hundred miles",
+    "year": "2015",
+    "device": "?",
+    "id": 116
+  },
+  {
+    "album": "confident",
+    "artist": "demi lovato",
+    "genre": "pop",
+    "track": "stone cold",
+    "year": "2015",
+    "device": "?",
+    "id": 117
+  },
+  {
+    "album": "luna llena",
+    "artist": "malu trevejo",
+    "genre": "pop",
+    "track": "luna llena",
+    "year": "2017",
+    "device": "?",
+    "id": 118
+  },
+  {
+    "album": "the hunting party",
+    "artist": "linkin park",
+    "genre": "metal",
+    "track": "final masquerade",
+    "year": "2014",
+    "device": "patio",
+    "id": 119
+  },
+  {
+    "album": "bas rona mat",
+    "artist": "hym",
+    "genre": "pop",
+    "track": "bas rona mat",
+    "year": "2014",
+    "device": "?",
+    "id": 120
+  },
+  {
+    "album": "black widow",
+    "artist": "in this moment",
+    "genre": "metalcore",
+    "track": "big bad wolf",
+    "year": "2014",
+    "device": "?",
+    "id": 121
+  },
+  {
+    "album": "where we come from",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "addicted",
+    "year": "2014",
+    "device": "living room",
+    "id": 122
+  },
+  {
+    "album": "burning",
+    "artist": "koffee",
+    "genre": "reggae",
+    "track": "burning",
+    "year": "2018",
+    "device": "?",
+    "id": 123
+  },
+  {
+    "album": "clarks pon foot",
+    "artist": "jahvillani",
+    "genre": "reggae",
+    "track": "clarks pon foot",
+    "year": "2019",
+    "device": "?",
+    "id": 124
+  },
+  {
+    "album": "gangsta city",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "dream",
+    "year": "2010",
+    "device": "?",
+    "id": 125
+  },
+  {
+    "album": "finest dubs outta jamaica",
+    "artist": "augustus pablo",
+    "genre": "reggae",
+    "track": "dub scene",
+    "year": "2018",
+    "device": "?",
+    "id": 126
+  },
+  {
+    "album": "where we come from",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "addicted",
+    "year": "2014",
+    "device": "patio",
+    "id": 127
+  },
+  {
+    "album": "purgatory",
+    "artist": "tyler childers",
+    "genre": "country",
+    "track": "whitehouse road",
+    "year": "2016",
+    "device": "?",
+    "id": 128
+  },
+  {
+    "album": "hallelujah nights",
+    "artist": "lanco",
+    "genre": "country",
+    "track": "greatest love story",
+    "year": "2017",
+    "device": "?",
+    "id": 129
+  },
+  {
+    "album": "arcadia",
+    "artist": "eurielle",
+    "genre": "pop",
+    "track": "hate me",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 130
+  },
+  {
+    "album": "sex rock",
+    "artist": "alex angel",
+    "genre": "rock",
+    "track": "my donna",
+    "year": "2018",
+    "device": "?",
+    "id": 131
+  },
+  {
+    "album": "sex rock",
+    "artist": "alex angel",
+    "genre": "rock",
+    "track": "easy world",
+    "year": "2018",
+    "device": "patio",
+    "id": 132
+  },
+  {
+    "album": "purple reign",
+    "artist": "future",
+    "genre": "soundtracks",
+    "track": "wicked",
+    "year": "2016",
+    "device": "?",
+    "id": 133
+  },
+  {
+    "album": "unbroken",
+    "artist": "demi lovato",
+    "genre": "pop",
+    "track": "skyscraper",
+    "year": "2011",
+    "device": "?",
+    "id": 134
+  },
+  {
+    "album": "coconut oil",
+    "artist": "lizzo",
+    "genre": "pop",
+    "track": "scuse me",
+    "year": "2016",
+    "device": "living room",
+    "id": 135
+  },
+  {
+    "album": "outlast",
+    "artist": "kirk degiorgio",
+    "genre": "asia",
+    "track": "for the night",
+    "year": "2014",
+    "device": "patio",
+    "id": 136
+  },
+  {
+    "album": "unleashed beyond",
+    "artist": "skillet",
+    "genre": "rock",
+    "track": "the resistance",
+    "year": "2016",
+    "device": "?",
+    "id": 137
+  },
+  {
+    "album": "enjoy yourself",
+    "artist": "billy currington",
+    "genre": "country",
+    "track": "let me down easy",
+    "year": "2010",
+    "device": "?",
+    "id": 138
+  },
+  {
+    "album": "frozen",
+    "artist": "idina menzel",
+    "genre": "pop",
+    "track": "let it go",
+    "year": "2013",
+    "device": "?",
+    "id": 139
+  },
+  {
+    "album": "sex rock",
+    "artist": "alex angel",
+    "genre": "rock",
+    "track": "easy world",
+    "year": "2018",
+    "device": "living room",
+    "id": 140
+  },
+  {
+    "album": "angry too",
+    "artist": "lola blanc",
+    "genre": "pop",
+    "track": "angry too",
+    "year": "2019",
+    "device": "?",
+    "id": 141
+  },
+  {
+    "album": "anything you can do i can do better",
+    "artist": "haschak sisters",
+    "genre": "pop",
+    "track": "anything you can do i can do better",
+    "year": "2019",
+    "device": "?",
+    "id": 142
+  },
+  {
+    "album": "ay amor",
+    "artist": "lea makhoul",
+    "genre": "pop",
+    "track": "ay amor",
+    "year": "2019",
+    "device": "?",
+    "id": 143
+  },
+  {
+    "album": "be nice",
+    "artist": "the black eyed peas",
+    "genre": "pop",
+    "track": "be nice",
+    "year": "2019",
+    "device": "?",
+    "id": 144
+  },
+  {
+    "album": "spectrum",
+    "artist": "westlife",
+    "genre": "pop",
+    "track": "better man",
+    "year": "2019",
+    "device": "?",
+    "id": 145
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "seven pillars of wisdom",
+    "year": "2019",
+    "device": "?",
+    "id": 146
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "the future of warfare",
+    "year": "2019",
+    "device": "?",
+    "id": 147
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "devil dogs",
+    "year": "2019",
+    "device": "living room",
+    "id": 148
+  },
+  {
+    "album": "painkiller",
+    "artist": "ruel",
+    "genre": "pop",
+    "track": "painkiller",
+    "year": "2019",
+    "device": "?",
+    "id": 149
+  },
+  {
+    "album": "shatter me",
+    "artist": "lindsey stirling",
+    "genre": "pop",
+    "track": "shatter me",
+    "year": "2014",
+    "device": "?",
+    "id": 150
+  },
+  {
+    "album": "trending",
+    "artist": "squash",
+    "genre": "reggae",
+    "track": "trending",
+    "year": "2018",
+    "device": "?",
+    "id": 151
+  },
+  {
+    "album": "mud",
+    "artist": "whiskey myers",
+    "genre": "rock",
+    "track": "stone",
+    "year": "2016",
+    "device": "?",
+    "id": 152
+  },
+  {
+    "album": "novocaine",
+    "artist": "the unlikely candidates",
+    "genre": "rock",
+    "track": "novocaine",
+    "year": "2019",
+    "device": "?",
+    "id": 153
+  },
+  {
+    "album": "icarus falls",
+    "artist": "zayn malik",
+    "genre": "pop",
+    "track": "dusk till dawn",
+    "year": "2017",
+    "device": "living room",
+    "id": 154
+  },
+  {
+    "album": "rise remixes",
+    "artist": "katy perry",
+    "genre": "pop",
+    "track": "rise",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 155
+  },
+  {
+    "album": "holo",
+    "artist": "limbo",
+    "genre": "pop",
+    "track": "airplane mode",
+    "year": "2017",
+    "device": "living room",
+    "id": 156
+  },
+  {
+    "album": "teri fikar",
+    "artist": "the turbo",
+    "genre": "pop",
+    "track": "teri fikar",
+    "year": "2019",
+    "device": "?",
+    "id": 157
+  },
+  {
+    "album": "come little children",
+    "artist": "erutan",
+    "genre": "soundtracks",
+    "track": "come little children",
+    "year": "2013",
+    "device": "?",
+    "id": 158
+  },
+  {
+    "album": "mike",
+    "artist": "elvana gjata",
+    "genre": "pop",
+    "track": "mike",
+    "year": "2018",
+    "device": "?",
+    "id": 159
+  },
+  {
+    "album": "euphoria",
+    "artist": "enrique iglesias",
+    "genre": "pop",
+    "track": "i like it",
+    "year": "2010",
+    "device": "patio",
+    "id": 160
+  },
+  {
+    "album": "the best of",
+    "artist": "samira",
+    "genre": "pop",
+    "track": "aka aka",
+    "year": "2018",
+    "device": "?",
+    "id": 161
+  },
+  {
+    "album": "the princess",
+    "artist": "parov stelar",
+    "genre": "pop",
+    "track": "all night",
+    "year": "2012",
+    "device": "?",
+    "id": 162
+  },
+  {
+    "album": "singular act i",
+    "artist": "sabrina carpenter",
+    "genre": "pop",
+    "track": "almost love",
+    "year": "2018",
+    "device": "?",
+    "id": 163
+  },
+  {
+    "album": "halfway to heaven",
+    "artist": "brantley gilbert",
+    "genre": "country",
+    "track": "bottoms up",
+    "year": "2010",
+    "device": "?",
+    "id": 164
+  },
+  {
+    "album": "caught up in the country",
+    "artist": "rodney atkins",
+    "genre": "country",
+    "track": "caught up in the country",
+    "year": "2018",
+    "device": "?",
+    "id": 165
+  },
+  {
+    "album": "city bitch",
+    "artist": "mini thin",
+    "genre": "country",
+    "track": "city bitch",
+    "year": "2014",
+    "device": "?",
+    "id": 166
+  },
+  {
+    "album": "stronger",
+    "artist": "sara evans",
+    "genre": "country",
+    "track": "a little bit stronger",
+    "year": "2010",
+    "device": "kitchen",
+    "id": 167
+  },
+  {
+    "album": "yours truly",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "baby i",
+    "year": "2013",
+    "device": "living room",
+    "id": 168
+  },
+  {
+    "album": "expectations",
+    "artist": "lauren jauregui",
+    "genre": "pop",
+    "track": "expectations",
+    "year": "2018",
+    "device": "?",
+    "id": 169
+  },
+  {
+    "album": "expectations",
+    "artist": "hayley kiyoko",
+    "genre": "pop",
+    "track": "what i need",
+    "year": "2018",
+    "device": "?",
+    "id": 170
+  },
+  {
+    "album": "expectations",
+    "artist": "hayley kiyoko",
+    "genre": "pop",
+    "track": "curious",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 171
+  },
+  {
+    "album": "kuntry",
+    "artist": "jawga boyz",
+    "genre": "country",
+    "track": "ridin high",
+    "year": "2011",
+    "device": "?",
+    "id": 172
+  },
+  {
+    "album": "direct hits",
+    "artist": "the killers",
+    "genre": "rock",
+    "track": "just another girl",
+    "year": "2013",
+    "device": "?",
+    "id": 173
+  },
+  {
+    "album": "sarah",
+    "artist": "cairokee",
+    "genre": "pop",
+    "track": "sarah",
+    "year": "2019",
+    "device": "?",
+    "id": 174
+  },
+  {
+    "album": "god over everything",
+    "artist": "patoranking",
+    "genre": "reggae",
+    "track": "this kind luv",
+    "year": "2016",
+    "device": "?",
+    "id": 175
+  },
+  {
+    "album": "one thought away",
+    "artist": "asher angel",
+    "genre": "pop",
+    "track": "one thought away",
+    "year": "2019",
+    "device": "?",
+    "id": 176
+  },
+  {
+    "album": "halcyon days",
+    "artist": "ellie goulding",
+    "genre": "pop",
+    "track": "how long will i love you",
+    "year": "2012",
+    "device": "?",
+    "id": 177
+  },
+  {
+    "album": "friendships",
+    "artist": "pascal letoublon",
+    "genre": "house",
+    "track": "friendships",
+    "year": "2017",
+    "device": "?",
+    "id": 178
+  },
+  {
+    "album": "instagram",
+    "artist": "afro bros",
+    "genre": "house",
+    "track": "instagram",
+    "year": "2019",
+    "device": "?",
+    "id": 179
+  },
+  {
+    "album": "caracal",
+    "artist": "disclosure",
+    "genre": "house",
+    "track": "omen",
+    "year": "2015",
+    "device": "?",
+    "id": 180
+  },
+  {
+    "album": "run free",
+    "artist": "deep chills",
+    "genre": "house",
+    "track": "run free",
+    "year": "2017",
+    "device": "?",
+    "id": 181
+  },
+  {
+    "album": "sugar",
+    "artist": "robin schulz",
+    "genre": "house",
+    "track": "show me love",
+    "year": "2015",
+    "device": "?",
+    "id": 182
+  },
+  {
+    "album": "true colors",
+    "artist": "zedd",
+    "genre": "house",
+    "track": "beautiful now",
+    "year": "2015",
+    "device": "living room",
+    "id": 183
+  },
+  {
+    "album": "we are",
+    "artist": "kisma",
+    "genre": "pop",
+    "track": "we are",
+    "year": "2017",
+    "device": "?",
+    "id": 184
+  },
+  {
+    "album": "stay juicy",
+    "artist": "guava juice",
+    "genre": "pop",
+    "track": "stay juicy",
+    "year": "2018",
+    "device": "?",
+    "id": 185
+  },
+  {
+    "album": "forever",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "wine for me",
+    "year": "2018",
+    "device": "?",
+    "id": 186
+  },
+  {
+    "album": "count me in",
+    "artist": "rebelution",
+    "genre": "reggae",
+    "track": "roots reggae music",
+    "year": "2014",
+    "device": "?",
+    "id": 187
+  },
+  {
+    "album": "happy",
+    "artist": "pharrell williams",
+    "genre": "pop",
+    "track": "happy",
+    "year": "2013",
+    "device": "?",
+    "id": 188
+  },
+  {
+    "album": "slow air",
+    "artist": "still corners",
+    "genre": "pop",
+    "track": "the message",
+    "year": "2018",
+    "device": "?",
+    "id": 189
+  },
+  {
+    "album": "night train",
+    "artist": "jason aldean",
+    "genre": "country",
+    "track": "night train",
+    "year": "2012",
+    "device": "?",
+    "id": 190
+  },
+  {
+    "album": "assurance",
+    "artist": "davido",
+    "genre": "pop",
+    "track": "assurance",
+    "year": "2018",
+    "device": "?",
+    "id": 191
+  },
+  {
+    "album": "king of the dancehall",
+    "artist": "vybz kartel",
+    "genre": "reggae",
+    "track": "colouring this life",
+    "year": "2016",
+    "device": "living room",
+    "id": 192
+  },
+  {
+    "album": "borbena",
+    "artist": "teodora",
+    "genre": "folk",
+    "track": "story",
+    "year": "2019",
+    "device": "?",
+    "id": 193
+  },
+  {
+    "album": "cannibal",
+    "artist": "kesha",
+    "genre": "pop",
+    "track": "we r who we r",
+    "year": "2010",
+    "device": "?",
+    "id": 194
+  },
+  {
+    "album": "love is singular",
+    "artist": "tena",
+    "genre": "romantic",
+    "track": "love is singular",
+    "year": "2018",
+    "device": "?",
+    "id": 195
+  },
+  {
+    "album": "expectations",
+    "artist": "hayley kiyoko",
+    "genre": "pop",
+    "track": "sleepover",
+    "year": "2017",
+    "device": "?",
+    "id": 196
+  },
+  {
+    "album": "expectations",
+    "artist": "hayley kiyoko",
+    "genre": "pop",
+    "track": "curious",
+    "year": "2018",
+    "device": "patio",
+    "id": 197
+  },
+  {
+    "album": "slow air",
+    "artist": "still corners",
+    "genre": "pop",
+    "track": "black lagoon",
+    "year": "2018",
+    "device": "living room",
+    "id": 198
+  },
+  {
+    "album": "friday",
+    "artist": "rebecca black",
+    "genre": "pop",
+    "track": "friday",
+    "year": "2011",
+    "device": "?",
+    "id": 199
+  },
+  {
+    "album": "heroes",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "night witches",
+    "year": "2014",
+    "device": "?",
+    "id": 200
+  },
+  {
+    "album": "the african gentleman",
+    "artist": "ric hassani",
+    "genre": "pop",
+    "track": "only you",
+    "year": "2017",
+    "device": "living room",
+    "id": 201
+  },
+  {
+    "album": "empty space",
+    "artist": "james arthur",
+    "genre": "pop",
+    "track": "empty space",
+    "year": "2018",
+    "device": "?",
+    "id": 202
+  },
+  {
+    "album": "the violence",
+    "artist": "asking alexandria",
+    "genre": "metal",
+    "track": "the violence",
+    "year": "2019",
+    "device": "?",
+    "id": 203
+  },
+  {
+    "album": "cherry gum",
+    "artist": "dolly style",
+    "genre": "pop",
+    "track": "cherry gum",
+    "year": "2015",
+    "device": "?",
+    "id": 204
+  },
+  {
+    "album": "tornado",
+    "artist": "little big town",
+    "genre": "country",
+    "track": "pontoon",
+    "year": "2012",
+    "device": "?",
+    "id": 205
+  },
+  {
+    "album": "dance again",
+    "artist": "jennifer lopez",
+    "genre": "pop",
+    "track": "dance again",
+    "year": "2012",
+    "device": "?",
+    "id": 206
+  },
+  {
+    "album": "maza mar liya dhori ke niche",
+    "artist": "ravi raj surendra",
+    "genre": "country",
+    "track": "tu larka hai bihari",
+    "year": "2019",
+    "device": "living room",
+    "id": 207
+  },
+  {
+    "album": "love songs from a lolita",
+    "artist": "maty noyes",
+    "genre": "pop",
+    "track": "new friends",
+    "year": "2018",
+    "device": "?",
+    "id": 208
+  },
+  {
+    "album": "on my own",
+    "artist": "matthew david morris",
+    "genre": "pop",
+    "track": "on my own",
+    "year": "2017",
+    "device": "?",
+    "id": 209
+  },
+  {
+    "album": "nick jonas",
+    "artist": "nick jonas",
+    "genre": "pop",
+    "track": "chains",
+    "year": "2014",
+    "device": "?",
+    "id": 210
+  },
+  {
+    "album": "we pray",
+    "artist": "dre island",
+    "genre": "reggae",
+    "track": "we pray",
+    "year": "2017",
+    "device": "?",
+    "id": 211
+  },
+  {
+    "album": "tell me you love me",
+    "artist": "demi lovato",
+    "genre": "pop",
+    "track": "tell me you love me",
+    "year": "2017",
+    "device": "?",
+    "id": 212
+  },
+  {
+    "album": "sandra cires roast",
+    "artist": "sandra cires",
+    "genre": "latin",
+    "track": "sandra cires roast",
+    "year": "2018",
+    "device": "?",
+    "id": 213
+  },
+  {
+    "album": "tangerine dream",
+    "artist": "miss li",
+    "genre": "pop",
+    "track": "my heart goes boom",
+    "year": "2012",
+    "device": "patio",
+    "id": 214
+  },
+  {
+    "album": "euphoria",
+    "artist": "enrique iglesias",
+    "genre": "pop",
+    "track": "heartbeat",
+    "year": "2010",
+    "device": "living room",
+    "id": 215
+  },
+  {
+    "album": "pulses",
+    "artist": "karmin",
+    "genre": "pop",
+    "track": "acapella",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 216
+  },
+  {
+    "album": "pulses",
+    "artist": "karmin",
+    "genre": "pop",
+    "track": "acapella",
+    "year": "2013",
+    "device": "living room",
+    "id": 217
+  },
+  {
+    "album": "the end is where we begin",
+    "artist": "thousand foot krutch",
+    "genre": "rock",
+    "track": "courtesy call",
+    "year": "2012",
+    "device": "?",
+    "id": 218
+  },
+  {
+    "album": "drugs",
+    "artist": "falling in reverse",
+    "genre": "rock",
+    "track": "drugs",
+    "year": "2019",
+    "device": "?",
+    "id": 219
+  },
+  {
+    "album": "earth angel",
+    "artist": "the penguins",
+    "genre": "rock",
+    "track": "earth angel",
+    "year": "2015",
+    "device": "?",
+    "id": 220
+  },
+  {
+    "album": "the origin of love",
+    "artist": "mika",
+    "genre": "rock",
+    "track": "elle me dit",
+    "year": "2011",
+    "device": "?",
+    "id": 221
+  },
+  {
+    "album": "delusions",
+    "artist": "silent theory",
+    "genre": "rock",
+    "track": "fragile minds",
+    "year": "2016",
+    "device": "?",
+    "id": 222
+  },
+  {
+    "album": "the end is where we begin",
+    "artist": "thousand foot krutch",
+    "genre": "rock",
+    "track": "be somebody",
+    "year": "2012",
+    "device": "living room",
+    "id": 223
+  },
+  {
+    "album": "purpose",
+    "artist": "justin bieber",
+    "genre": "pop",
+    "track": "company",
+    "year": "2015",
+    "device": "?",
+    "id": 224
+  },
+  {
+    "album": "purpose",
+    "artist": "justin bieber",
+    "genre": "pop",
+    "track": "sorry",
+    "year": "2015",
+    "device": "?",
+    "id": 225
+  },
+  {
+    "album": "journals",
+    "artist": "justin bieber",
+    "genre": "pop",
+    "track": "all that matters",
+    "year": "2013",
+    "device": "living room",
+    "id": 226
+  },
+  {
+    "album": "shatter me",
+    "artist": "lindsey stirling",
+    "genre": "trance",
+    "track": "roundtable rival",
+    "year": "2014",
+    "device": "?",
+    "id": 227
+  },
+  {
+    "album": "beauty marks",
+    "artist": "ciara",
+    "genre": "pop",
+    "track": "thinkin bout you",
+    "year": "2019",
+    "device": "?",
+    "id": 228
+  },
+  {
+    "album": "redneck crazy",
+    "artist": "tyler farr",
+    "genre": "country",
+    "track": "redneck crazy",
+    "year": "2013",
+    "device": "?",
+    "id": 229
+  },
+  {
+    "album": "when legends rise",
+    "artist": "godsmack",
+    "genre": "rock",
+    "track": "when legends rise",
+    "year": "2018",
+    "device": "?",
+    "id": 230
+  },
+  {
+    "album": "my everything",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "break free",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 231
+  },
+  {
+    "album": "mount everest",
+    "artist": "labrinth",
+    "genre": "pop",
+    "track": "mount everest",
+    "year": "2019",
+    "device": "?",
+    "id": 232
+  },
+  {
+    "album": "beautiful world",
+    "artist": "connie talbot",
+    "genre": "pop",
+    "track": "count on me",
+    "year": "2012",
+    "device": "?",
+    "id": 233
+  },
+  {
+    "album": "roast yourself challenge",
+    "artist": "xime ponch",
+    "genre": "pop",
+    "track": "roast yourself challenge",
+    "year": "2018",
+    "device": "?",
+    "id": 234
+  },
+  {
+    "album": "got your six",
+    "artist": "five finger death punch",
+    "genre": "metal",
+    "track": "wash it all away",
+    "year": "2015",
+    "device": "?",
+    "id": 235
+  },
+  {
+    "album": "double vision",
+    "artist": "prince royce",
+    "genre": "pop",
+    "track": "back it up",
+    "year": "2015",
+    "device": "patio",
+    "id": 236
+  },
+  {
+    "album": "i choose you",
+    "artist": "ryann darling",
+    "genre": "pop",
+    "track": "i choose you",
+    "year": "2016",
+    "device": "?",
+    "id": 237
+  },
+  {
+    "album": "none of my business",
+    "artist": "cher lloyd",
+    "genre": "pop",
+    "track": "none of my business",
+    "year": "2018",
+    "device": "?",
+    "id": 238
+  },
+  {
+    "album": "you are my sunshine",
+    "artist": "jasmine thompson",
+    "genre": "pop",
+    "track": "you are my sunshine",
+    "year": "2016",
+    "device": "?",
+    "id": 239
+  },
+  {
+    "album": "brett young",
+    "artist": "brett young",
+    "genre": "country",
+    "track": "like i loved you",
+    "year": "2017",
+    "device": "?",
+    "id": 240
+  },
+  {
+    "album": "transmissions",
+    "artist": "starset",
+    "genre": "rock",
+    "track": "it has begun",
+    "year": "2014",
+    "device": "?",
+    "id": 241
+  },
+  {
+    "album": "pop food",
+    "artist": "jack stauber",
+    "genre": "pop",
+    "track": "oh klahoma",
+    "year": "2017",
+    "device": "?",
+    "id": 242
+  },
+  {
+    "album": "up top",
+    "artist": "tee jay",
+    "genre": "reggae",
+    "track": "up top",
+    "year": "2017",
+    "device": "?",
+    "id": 243
+  },
+  {
+    "album": "traveller",
+    "artist": "chris stapleton",
+    "genre": "country",
+    "track": "tennessee whiskey",
+    "year": "2015",
+    "device": "?",
+    "id": 244
+  },
+  {
+    "album": "surrender",
+    "artist": "natalie taylor",
+    "genre": "folk",
+    "track": "surrender",
+    "year": "2015",
+    "device": "?",
+    "id": 245
+  },
+  {
+    "album": "yours truly",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "tattooed heart",
+    "year": "2013",
+    "device": "patio",
+    "id": 246
+  },
+  {
+    "album": "forever",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "silence",
+    "year": "2018",
+    "device": "?",
+    "id": 247
+  },
+  {
+    "album": "this is what you came for",
+    "artist": "calvin harris",
+    "genre": "pop",
+    "track": "this is what you came for",
+    "year": "2016",
+    "device": "?",
+    "id": 248
+  },
+  {
+    "album": "welcome to the fishbowl",
+    "artist": "kenny chesney",
+    "genre": "country",
+    "track": "come over",
+    "year": "2012",
+    "device": "kitchen",
+    "id": 249
+  },
+  {
+    "album": "desperate man",
+    "artist": "eric church",
+    "genre": "country",
+    "track": "some of it",
+    "year": "2018",
+    "device": "?",
+    "id": 250
+  },
+  {
+    "album": "outta my hair",
+    "artist": "logan paul",
+    "genre": "pop",
+    "track": "outta my hair",
+    "year": "2017",
+    "device": "?",
+    "id": 251
+  },
+  {
+    "album": "ganjaman",
+    "artist": "alfons",
+    "genre": "pop",
+    "track": "ganjaman",
+    "year": "2014",
+    "device": "?",
+    "id": 252
+  },
+  {
+    "album": "melodrama",
+    "artist": "lorde",
+    "genre": "electropop",
+    "track": "green light",
+    "year": "2017",
+    "device": "?",
+    "id": 253
+  },
+  {
+    "album": "forgetting this",
+    "artist": "elijah n",
+    "genre": "pop",
+    "track": "stick together",
+    "year": "2016",
+    "device": "?",
+    "id": 254
+  },
+  {
+    "album": "one more light",
+    "artist": "linkin park",
+    "genre": "electropop",
+    "track": "good goodbye",
+    "year": "2017",
+    "device": "?",
+    "id": 255
+  },
+  {
+    "album": "r u crazy",
+    "artist": "conor maynard",
+    "genre": "pop",
+    "track": "r u crazy",
+    "year": "2013",
+    "device": "?",
+    "id": 256
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "great war",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 257
+  },
+  {
+    "album": "the mountain",
+    "artist": "dierks bentley",
+    "genre": "country",
+    "track": "living",
+    "year": "2018",
+    "device": "?",
+    "id": 258
+  },
+  {
+    "album": "the mountain",
+    "artist": "dierks bentley",
+    "genre": "country",
+    "track": "burning man",
+    "year": "2018",
+    "device": "patio",
+    "id": 259
+  },
+  {
+    "album": "nine track mind",
+    "artist": "charlie puth",
+    "genre": "pop",
+    "track": "one call away",
+    "year": "2015",
+    "device": "?",
+    "id": 260
+  },
+  {
+    "album": "the getaway",
+    "artist": "red hot chili peppers",
+    "genre": "rock",
+    "track": "goodbye angels",
+    "year": "2016",
+    "device": "?",
+    "id": 261
+  },
+  {
+    "album": "how long",
+    "artist": "charlie puth",
+    "genre": "pop",
+    "track": "how long",
+    "year": "2017",
+    "device": "?",
+    "id": 262
+  },
+  {
+    "album": "hush",
+    "artist": "haschak sisters",
+    "genre": "pop",
+    "track": "hush",
+    "year": "2019",
+    "device": "?",
+    "id": 263
+  },
+  {
+    "album": "pitch perfect",
+    "artist": "anna kendrick",
+    "genre": "soundtracks",
+    "track": "cups",
+    "year": "2012",
+    "device": "?",
+    "id": 264
+  },
+  {
+    "album": "moon landing",
+    "artist": "james blunt",
+    "genre": "pop",
+    "track": "always hate me",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 265
+  },
+  {
+    "album": "heart miles",
+    "artist": "jai waetford",
+    "genre": "pop",
+    "track": "shy",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 266
+  },
+  {
+    "album": "sick boy",
+    "artist": "the chainsmokers",
+    "genre": "pop",
+    "track": "sick boy",
+    "year": "2018",
+    "device": "?",
+    "id": 267
+  },
+  {
+    "album": "sick boy",
+    "artist": "the chainsmokers",
+    "genre": "pop",
+    "track": "side effects",
+    "year": "2018",
+    "device": "?",
+    "id": 268
+  },
+  {
+    "album": "sick boy",
+    "artist": "the chainsmokers",
+    "genre": "pop",
+    "track": "everybody hates me",
+    "year": "2018",
+    "device": "living room",
+    "id": 269
+  },
+  {
+    "album": "raees",
+    "artist": "pavni pandey",
+    "genre": "south asia",
+    "track": "laila main laila",
+    "year": "2017",
+    "device": "patio",
+    "id": 270
+  },
+  {
+    "album": "loved you once",
+    "artist": "clara mae",
+    "genre": "pop",
+    "track": "loved you once",
+    "year": "2019",
+    "device": "?",
+    "id": 271
+  },
+  {
+    "album": "climate change",
+    "artist": "pitbull",
+    "genre": "pop",
+    "track": "greenlight",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 272
+  },
+  {
+    "album": "frozen",
+    "artist": "josh gad",
+    "genre": "soundtracks",
+    "track": "in summer",
+    "year": "2013",
+    "device": "living room",
+    "id": 273
+  },
+  {
+    "album": "get wet",
+    "artist": "krewella",
+    "genre": "dubstep",
+    "track": "alive",
+    "year": "2012",
+    "device": "living room",
+    "id": 274
+  },
+  {
+    "album": "la la land",
+    "artist": "la la land cast",
+    "genre": "soundtracks",
+    "track": "another day of sun",
+    "year": "2016",
+    "device": "?",
+    "id": 275
+  },
+  {
+    "album": "turn back time",
+    "artist": "daniel schulz",
+    "genre": "pop",
+    "track": "turn back time",
+    "year": "2017",
+    "device": "?",
+    "id": 276
+  },
+  {
+    "album": "it feel good",
+    "artist": "konshens",
+    "genre": "reggae",
+    "track": "turn me on",
+    "year": "2017",
+    "device": "?",
+    "id": 277
+  },
+  {
+    "album": "cloud nine",
+    "artist": "kygo",
+    "genre": "downtempo",
+    "track": "raging",
+    "year": "2016",
+    "device": "living room",
+    "id": 278
+  },
+  {
+    "album": "brett eldredge",
+    "artist": "brett eldredge",
+    "genre": "country",
+    "track": "love someone",
+    "year": "2017",
+    "device": "?",
+    "id": 279
+  },
+  {
+    "album": "inviolable",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "inviolable",
+    "year": "2018",
+    "device": "?",
+    "id": 280
+  },
+  {
+    "album": "born this way",
+    "artist": "lady gaga",
+    "genre": "pop",
+    "track": "judas",
+    "year": "2011",
+    "device": "?",
+    "id": 281
+  },
+  {
+    "album": "love town",
+    "artist": "kolohe kai",
+    "genre": "reggae",
+    "track": "first true love",
+    "year": "2011",
+    "device": "living room",
+    "id": 282
+  },
+  {
+    "album": "badlands",
+    "artist": "halsey",
+    "genre": "electropop",
+    "track": "colors",
+    "year": "2015",
+    "device": "patio",
+    "id": 283
+  },
+  {
+    "album": "spaceship earth",
+    "artist": "whitewoods",
+    "genre": "pop",
+    "track": "beach walk",
+    "year": "2013",
+    "device": "?",
+    "id": 284
+  },
+  {
+    "album": "halcyon days",
+    "artist": "ellie goulding",
+    "genre": "pop",
+    "track": "beating heart",
+    "year": "2012",
+    "device": "?",
+    "id": 285
+  },
+  {
+    "album": "crazy",
+    "artist": "ornette",
+    "genre": "pop",
+    "track": "crazy",
+    "year": "2011",
+    "device": "?",
+    "id": 286
+  },
+  {
+    "album": "wonder woman",
+    "artist": "davido",
+    "genre": "pop",
+    "track": "wonder woman",
+    "year": "2018",
+    "device": "?",
+    "id": 287
+  },
+  {
+    "album": "unapologetic",
+    "artist": "rihanna",
+    "genre": "pop",
+    "track": "what now",
+    "year": "2012",
+    "device": "kitchen",
+    "id": 288
+  },
+  {
+    "album": "double vision",
+    "artist": "prince royce",
+    "genre": "pop",
+    "track": "back it up",
+    "year": "2015",
+    "device": "living room",
+    "id": 289
+  },
+  {
+    "album": "a boy from tandale",
+    "artist": "diamond platnumz",
+    "genre": "pop",
+    "track": "african beauty",
+    "year": "2018",
+    "device": "patio",
+    "id": 290
+  },
+  {
+    "album": "globalization",
+    "artist": "pitbull",
+    "genre": "pop",
+    "track": "fun",
+    "year": "2014",
+    "device": "?",
+    "id": 291
+  },
+  {
+    "album": "ready",
+    "artist": "ruel",
+    "genre": "pop",
+    "track": "younger",
+    "year": "2018",
+    "device": "?",
+    "id": 292
+  },
+  {
+    "album": "thank you",
+    "artist": "meghan trainor",
+    "genre": "pop",
+    "track": "me too",
+    "year": "2016",
+    "device": "?",
+    "id": 293
+  },
+  {
+    "album": "soul searching",
+    "artist": "bazzi",
+    "genre": "pop",
+    "track": "paradise",
+    "year": "2019",
+    "device": "living room",
+    "id": 294
+  },
+  {
+    "album": "experiment",
+    "artist": "kane brown",
+    "genre": "country",
+    "track": "homesick",
+    "year": "2018",
+    "device": "?",
+    "id": 295
+  },
+  {
+    "album": "not over you",
+    "artist": "conor maynard",
+    "genre": "pop",
+    "track": "not over you",
+    "year": "2019",
+    "device": "?",
+    "id": 296
+  },
+  {
+    "album": "kisses back",
+    "artist": "matthew koma",
+    "genre": "pop",
+    "track": "kisses back",
+    "year": "2016",
+    "device": "?",
+    "id": 297
+  },
+  {
+    "album": "covers collection",
+    "artist": "caitlin de ville",
+    "genre": "pop",
+    "track": "rockabye",
+    "year": "2018",
+    "device": "living room",
+    "id": 298
+  },
+  {
+    "album": "illuminate",
+    "artist": "shawn mendes",
+    "genre": "pop",
+    "track": "treat you better",
+    "year": "2016",
+    "device": "patio",
+    "id": 299
+  },
+  {
+    "album": "drowning",
+    "artist": "chris young",
+    "genre": "country",
+    "track": "drowning",
+    "year": "2019",
+    "device": "?",
+    "id": 300
+  },
+  {
+    "album": "dangerous woman",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "focus",
+    "year": "2015",
+    "device": "?",
+    "id": 301
+  },
+  {
+    "album": "strange trails",
+    "artist": "lord huron",
+    "genre": "rock",
+    "track": "the night we met",
+    "year": "2015",
+    "device": "living room",
+    "id": 302
+  },
+  {
+    "album": "the greatest",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "the greatest",
+    "year": "2016",
+    "device": "?",
+    "id": 303
+  },
+  {
+    "album": "this is acting",
+    "artist": "sia",
+    "genre": "pop",
+    "track": "alive",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 304
+  },
+  {
+    "album": "globalization",
+    "artist": "pitbull",
+    "genre": "pop",
+    "track": "fireball",
+    "year": "2014",
+    "device": "?",
+    "id": 305
+  },
+  {
+    "album": "all the little lights",
+    "artist": "passenger",
+    "genre": "pop",
+    "track": "let her go",
+    "year": "2012",
+    "device": "living room",
+    "id": 306
+  },
+  {
+    "album": "harry styles",
+    "artist": "harry styles",
+    "genre": "rock",
+    "track": "kiwi",
+    "year": "2017",
+    "device": "?",
+    "id": 307
+  },
+  {
+    "album": "center point road",
+    "artist": "thomas rhett",
+    "genre": "country",
+    "track": "look what god gave her",
+    "year": "2019",
+    "device": "?",
+    "id": 308
+  },
+  {
+    "album": "bitter love",
+    "artist": "pia mia",
+    "genre": "pop",
+    "track": "bitter love",
+    "year": "2019",
+    "device": "?",
+    "id": 309
+  },
+  {
+    "album": "lover",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "you need to calm down",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 310
+  },
+  {
+    "album": "chief",
+    "artist": "eric church",
+    "genre": "country",
+    "track": "springsteen",
+    "year": "2011",
+    "device": "living room",
+    "id": 311
+  },
+  {
+    "album": "ecstacy",
+    "artist": "insideeus",
+    "genre": "reggae",
+    "track": "ecstasy",
+    "year": "2018",
+    "device": "patio",
+    "id": 312
+  },
+  {
+    "album": "all out life",
+    "artist": "slipknot",
+    "genre": "metal",
+    "track": "all out life",
+    "year": "2018",
+    "device": "?",
+    "id": 313
+  },
+  {
+    "album": "a star is born soundtrack",
+    "artist": "lady gaga",
+    "genre": "soundtracks",
+    "track": "always remember us this way",
+    "year": "2018",
+    "device": "?",
+    "id": 314
+  },
+  {
+    "album": "be somebody",
+    "artist": "phil good",
+    "genre": "pop",
+    "track": "be somebody",
+    "year": "2018",
+    "device": "?",
+    "id": 315
+  },
+  {
+    "album": "a boy from tandale",
+    "artist": "diamond platnumz",
+    "genre": "pop",
+    "track": "african beauty",
+    "year": "2018",
+    "device": "living room",
+    "id": 316
+  },
+  {
+    "album": "party rock mansion",
+    "artist": "redfoo",
+    "genre": "pop",
+    "track": "new thang",
+    "year": "2014",
+    "device": "living room",
+    "id": 317
+  },
+  {
+    "album": "dangerous woman",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "into you",
+    "year": "2015",
+    "device": "?",
+    "id": 318
+  },
+  {
+    "album": "dangerous woman",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "be alright",
+    "year": "2016",
+    "device": "living room",
+    "id": 319
+  },
+  {
+    "album": "little bit more",
+    "artist": "whitney woerz",
+    "genre": "pop",
+    "track": "little bit more",
+    "year": "2019",
+    "device": "?",
+    "id": 320
+  },
+  {
+    "album": "what makes you country",
+    "artist": "luke bryan",
+    "genre": "country",
+    "track": "what makes you country",
+    "year": "2017",
+    "device": "?",
+    "id": 321
+  },
+  {
+    "album": "prequelle",
+    "artist": "ghost",
+    "genre": "metal",
+    "track": "rats",
+    "year": "2018",
+    "device": "?",
+    "id": 322
+  },
+  {
+    "album": "prequelle",
+    "artist": "ghost",
+    "genre": "metal",
+    "track": "dance macabre",
+    "year": "2018",
+    "device": "living room",
+    "id": 323
+  },
+  {
+    "album": "blood",
+    "artist": "in this moment",
+    "genre": "metalcore",
+    "track": "whore",
+    "year": "2012",
+    "device": "?",
+    "id": 324
+  },
+  {
+    "album": "these are the times",
+    "artist": "martin garrix",
+    "genre": "house",
+    "track": "these are the times",
+    "year": "2019",
+    "device": "?",
+    "id": 325
+  },
+  {
+    "album": "fi ha",
+    "artist": "burak balkan",
+    "genre": "pop",
+    "track": "fi ha",
+    "year": "2017",
+    "device": "?",
+    "id": 326
+  },
+  {
+    "album": "safe haven",
+    "artist": "ruth b",
+    "genre": "pop",
+    "track": "superficial love",
+    "year": "2015",
+    "device": "?",
+    "id": 327
+  },
+  {
+    "album": "black widow",
+    "artist": "in this moment",
+    "genre": "metalcore",
+    "track": "sick like me",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 328
+  },
+  {
+    "album": "madame x",
+    "artist": "madonna",
+    "genre": "pop",
+    "track": "god control",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 329
+  },
+  {
+    "album": "journals",
+    "artist": "justin bieber",
+    "genre": "pop",
+    "track": "all that matters",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 330
+  },
+  {
+    "album": "rim elghezlen",
+    "artist": "cheb bachir",
+    "genre": "pop",
+    "track": "rim elghezlen",
+    "year": "2018",
+    "device": "?",
+    "id": 331
+  },
+  {
+    "album": "must have been the wind",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "must have been the wind",
+    "year": "2019",
+    "device": "?",
+    "id": 332
+  },
+  {
+    "album": "peter pan",
+    "artist": "groove delight",
+    "genre": "brazil",
+    "track": "peter pan",
+    "year": "2019",
+    "device": "?",
+    "id": 333
+  },
+  {
+    "album": "cloud nine",
+    "artist": "kygo",
+    "genre": "downtempo",
+    "track": "carry me",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 334
+  },
+  {
+    "album": "old dominion",
+    "artist": "old dominion",
+    "genre": "country",
+    "track": "one man band",
+    "year": "2019",
+    "device": "?",
+    "id": 335
+  },
+  {
+    "album": "pure heroine",
+    "artist": "lorde",
+    "genre": "electropop",
+    "track": "tennis court",
+    "year": "2013",
+    "device": "?",
+    "id": 336
+  },
+  {
+    "album": "the awakening",
+    "artist": "onlap",
+    "genre": "rock",
+    "track": "the awakening",
+    "year": "2011",
+    "device": "?",
+    "id": 337
+  },
+  {
+    "album": "meliora",
+    "artist": "ghost",
+    "genre": "metal",
+    "track": "cirice",
+    "year": "2015",
+    "device": "?",
+    "id": 338
+  },
+  {
+    "album": "wake up dreaming",
+    "artist": "stephanie mabey",
+    "genre": "pop",
+    "track": "the zombie song",
+    "year": "2012",
+    "device": "patio",
+    "id": 339
+  },
+  {
+    "album": "icona pop",
+    "artist": "icona pop",
+    "genre": "electropop",
+    "track": "i love it",
+    "year": "2012",
+    "device": "?",
+    "id": 340
+  },
+  {
+    "album": "strange pleasures",
+    "artist": "still corners",
+    "genre": "electropop",
+    "track": "the trip",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 341
+  },
+  {
+    "album": "globalization",
+    "artist": "pitbull",
+    "genre": "pop",
+    "track": "celebrate",
+    "year": "2014",
+    "device": "living room",
+    "id": 342
+  },
+  {
+    "album": "ores aixmis",
+    "artist": "malou kyriakopoulou",
+    "genre": "pop",
+    "track": "nixta ginontai ta thavmata",
+    "year": "2019",
+    "device": "patio",
+    "id": 343
+  },
+  {
+    "album": "rainbow",
+    "artist": "kesha",
+    "genre": "pop",
+    "track": "praying",
+    "year": "2017",
+    "device": "living room",
+    "id": 344
+  },
+  {
+    "album": "naked",
+    "artist": "james arthur",
+    "genre": "pop",
+    "track": "naked",
+    "year": "2017",
+    "device": "?",
+    "id": 345
+  },
+  {
+    "album": "sunday",
+    "artist": "dawin",
+    "genre": "pop",
+    "track": "jumpshot",
+    "year": "2016",
+    "device": "?",
+    "id": 346
+  },
+  {
+    "album": "yours truly",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "honeymoon avenue",
+    "year": "2013",
+    "device": "patio",
+    "id": 347
+  },
+  {
+    "album": "joanne",
+    "artist": "lady gaga",
+    "genre": "pop",
+    "track": "million reasons",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 348
+  },
+  {
+    "album": "the martin garrix experience",
+    "artist": "martin garrix",
+    "genre": "house",
+    "track": "no sleep",
+    "year": "2019",
+    "device": "living room",
+    "id": 349
+  },
+  {
+    "album": "symbiotic",
+    "artist": "the green children",
+    "genre": "pop",
+    "track": "symbiotic",
+    "year": "2019",
+    "device": "?",
+    "id": 350
+  },
+  {
+    "album": "wilmer",
+    "artist": "patoranking",
+    "genre": "reggae",
+    "track": "wilmer",
+    "year": "2019",
+    "device": "?",
+    "id": 351
+  },
+  {
+    "album": "speak now",
+    "artist": "taylor swift",
+    "genre": "country",
+    "track": "never grow up",
+    "year": "2010",
+    "device": "?",
+    "id": 352
+  },
+  {
+    "album": "muse box",
+    "artist": "madilyn bailey",
+    "genre": "pop",
+    "track": "titanium",
+    "year": "2012",
+    "device": "?",
+    "id": 353
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "a ghost in the trenches",
+    "year": "2019",
+    "device": "living room",
+    "id": 354
+  },
+  {
+    "album": "when legends rise",
+    "artist": "godsmack",
+    "genre": "rock",
+    "track": "under your scars",
+    "year": "2018",
+    "device": "living room",
+    "id": 355
+  },
+  {
+    "album": "sexability",
+    "artist": "vybz kartel",
+    "genre": "reggae",
+    "track": "fuckability",
+    "year": "2019",
+    "device": "living room",
+    "id": 356
+  },
+  {
+    "album": "king of everything",
+    "artist": "jinjer",
+    "genre": "metal",
+    "track": "pisces",
+    "year": "2016",
+    "device": "patio",
+    "id": 357
+  },
+  {
+    "album": "halcyon",
+    "artist": "ellie goulding",
+    "genre": "pop",
+    "track": "burn",
+    "year": "2012",
+    "device": "patio",
+    "id": 358
+  },
+  {
+    "album": "free spirit",
+    "artist": "khalid",
+    "genre": "pop",
+    "track": "better",
+    "year": "2018",
+    "device": "?",
+    "id": 359
+  },
+  {
+    "album": "kiss",
+    "artist": "carly rae jepsen",
+    "genre": "pop",
+    "track": "call me maybe",
+    "year": "2011",
+    "device": "?",
+    "id": 360
+  },
+  {
+    "album": "cloud nine",
+    "artist": "kygo",
+    "genre": "downtempo",
+    "track": "carry me",
+    "year": "2016",
+    "device": "living room",
+    "id": 361
+  },
+  {
+    "album": "jim",
+    "artist": "ziyoda qobilova",
+    "genre": "pop",
+    "track": "jim",
+    "year": "2016",
+    "device": "?",
+    "id": 362
+  },
+  {
+    "album": "demi",
+    "artist": "demi lovato",
+    "genre": "pop",
+    "track": "neon lights",
+    "year": "2013",
+    "device": "living room",
+    "id": 363
+  },
+  {
+    "album": "night visions",
+    "artist": "imagine dragons",
+    "genre": "rock",
+    "track": "radioactive",
+    "year": "2012",
+    "device": "living room",
+    "id": 364
+  },
+  {
+    "album": "instant regrets",
+    "artist": "instant regrets",
+    "genre": "rock",
+    "track": "instant regret",
+    "year": "2018",
+    "device": "?",
+    "id": 365
+  },
+  {
+    "album": "forbidden voices",
+    "artist": "martin garrix",
+    "genre": "pop",
+    "track": "forbidden voices",
+    "year": "2015",
+    "device": "?",
+    "id": 366
+  },
+  {
+    "album": "lindsey stirling",
+    "artist": "lindsey stirling",
+    "genre": "pop",
+    "track": "elements",
+    "year": "2012",
+    "device": "?",
+    "id": 367
+  },
+  {
+    "album": "the getaway",
+    "artist": "red hot chili peppers",
+    "genre": "rock",
+    "track": "sick love",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 368
+  },
+  {
+    "album": "stars dance",
+    "artist": "selena gomez",
+    "genre": "pop",
+    "track": "love will remember",
+    "year": "2013",
+    "device": "?",
+    "id": 369
+  },
+  {
+    "album": "my type",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "my type",
+    "year": "2018",
+    "device": "?",
+    "id": 370
+  },
+  {
+    "album": "isolation",
+    "artist": "kali uchis",
+    "genre": "funk",
+    "track": "tyrant",
+    "year": "2016",
+    "device": "living room",
+    "id": 371
+  },
+  {
+    "album": "cry pretty",
+    "artist": "carrie underwood",
+    "genre": "pop",
+    "track": "southbound",
+    "year": "2018",
+    "device": "living room",
+    "id": 372
+  },
+  {
+    "album": "speak now",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "long live",
+    "year": "2010",
+    "device": "living room",
+    "id": 373
+  },
+  {
+    "album": "fly",
+    "artist": "eric rylee",
+    "genre": "pop",
+    "track": "fly",
+    "year": "2019",
+    "device": "?",
+    "id": 374
+  },
+  {
+    "album": "crazy glue riddim",
+    "artist": "shenseea",
+    "genre": "reggae",
+    "track": "nothing dem kno have ova me",
+    "year": "2017",
+    "device": "?",
+    "id": 375
+  },
+  {
+    "album": "atonement",
+    "artist": "killswitch engage",
+    "genre": "metal",
+    "track": "i am broken too",
+    "year": "2019",
+    "device": "?",
+    "id": 376
+  },
+  {
+    "album": "you should be here",
+    "artist": "cole swindell",
+    "genre": "country",
+    "track": "you should be here",
+    "year": "2015",
+    "device": "?",
+    "id": 377
+  },
+  {
+    "album": "brave enough",
+    "artist": "lindsey stirling",
+    "genre": "pop",
+    "track": "the arena",
+    "year": "2016",
+    "device": "?",
+    "id": 378
+  },
+  {
+    "album": "hey matty",
+    "artist": "matthew david morris",
+    "genre": "pop",
+    "track": "hey matty",
+    "year": "2017",
+    "device": "?",
+    "id": 379
+  },
+  {
+    "album": "salam",
+    "artist": "harris j",
+    "genre": "pop",
+    "track": "salam alaikum",
+    "year": "2015",
+    "device": "living room",
+    "id": 380
+  },
+  {
+    "album": "only love",
+    "artist": "jordan smith",
+    "genre": "pop",
+    "track": "only love",
+    "year": "2018",
+    "device": "?",
+    "id": 381
+  },
+  {
+    "album": "parts of the puzzle",
+    "artist": "busy signal",
+    "genre": "reggae",
+    "track": "stay so",
+    "year": "2017",
+    "device": "?",
+    "id": 382
+  },
+  {
+    "album": "hotel",
+    "artist": "rasta",
+    "genre": "pop",
+    "track": "hotel",
+    "year": "2016",
+    "device": "?",
+    "id": 383
+  },
+  {
+    "album": "sabrina",
+    "artist": "sabrina",
+    "genre": "pop",
+    "track": "my chico",
+    "year": "2011",
+    "device": "?",
+    "id": 384
+  },
+  {
+    "album": "victorious",
+    "artist": "skillet",
+    "genre": "rock",
+    "track": "legendary",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 385
+  },
+  {
+    "album": "kamayanbaghi",
+    "artist": "hoba hoba spirit",
+    "genre": "rock",
+    "track": "mchat",
+    "year": "2018",
+    "device": "living room",
+    "id": 386
+  },
+  {
+    "album": "lover",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "the archer",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 387
+  },
+  {
+    "album": "whip my hair",
+    "artist": "willow smith",
+    "genre": "pop",
+    "track": "whip my hair",
+    "year": "2010",
+    "device": "?",
+    "id": 388
+  },
+  {
+    "album": "femme fatale",
+    "artist": "britney spears",
+    "genre": "pop",
+    "track": "criminal",
+    "year": "2011",
+    "device": "?",
+    "id": 389
+  },
+  {
+    "album": "we are not your kind",
+    "artist": "slipknot",
+    "genre": "rock",
+    "track": "birth of the cruel",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 390
+  },
+  {
+    "album": "rockefeller street",
+    "artist": "getter jaani",
+    "genre": "pop",
+    "track": "rockefeller street",
+    "year": "2011",
+    "device": "?",
+    "id": 391
+  },
+  {
+    "album": "no roots",
+    "artist": "alice merton",
+    "genre": "pop",
+    "track": "no roots",
+    "year": "2016",
+    "device": "?",
+    "id": 392
+  },
+  {
+    "album": "i feel the muzik",
+    "artist": "luis alvarado",
+    "genre": "house",
+    "track": "the muzik",
+    "year": "2011",
+    "device": "kitchen",
+    "id": 393
+  },
+  {
+    "album": "happiness begins",
+    "artist": "jonas brothers",
+    "genre": "pop",
+    "track": "only human",
+    "year": "2019",
+    "device": "?",
+    "id": 394
+  },
+  {
+    "album": "happiness begins",
+    "artist": "jonas brothers",
+    "genre": "pop",
+    "track": "cool",
+    "year": "2019",
+    "device": "patio",
+    "id": 395
+  },
+  {
+    "album": "winter collection",
+    "artist": "sivik",
+    "genre": "pop",
+    "track": "high",
+    "year": "2015",
+    "device": "living room",
+    "id": 396
+  },
+  {
+    "album": "who you are",
+    "artist": "jessie j",
+    "genre": "electropop",
+    "track": "price tag",
+    "year": "2011",
+    "device": "?",
+    "id": 397
+  },
+  {
+    "album": "crash my party",
+    "artist": "luke bryan",
+    "genre": "country",
+    "track": "crash my party",
+    "year": "2013",
+    "device": "?",
+    "id": 398
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "outrunning karma",
+    "year": "2018",
+    "device": "?",
+    "id": 399
+  },
+  {
+    "album": "late night feelings",
+    "artist": "mark ronson",
+    "genre": "pop",
+    "track": "find u again",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 400
+  },
+  {
+    "album": "different world",
+    "artist": "alan walker",
+    "genre": "pop",
+    "track": "darkside",
+    "year": "2018",
+    "device": "?",
+    "id": 401
+  },
+  {
+    "album": "the getaway",
+    "artist": "red hot chili peppers",
+    "genre": "rock",
+    "track": "dark necessities",
+    "year": "2016",
+    "device": "living room",
+    "id": 402
+  },
+  {
+    "album": "got your six",
+    "artist": "five finger death punch",
+    "genre": "metal",
+    "track": "i apologize",
+    "year": "2015",
+    "device": "patio",
+    "id": 403
+  },
+  {
+    "album": "dangerous woman",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "be alright",
+    "year": "2016",
+    "device": "patio",
+    "id": 404
+  },
+  {
+    "album": "presence",
+    "artist": "petit biscuit",
+    "genre": "electronica",
+    "track": "sunset lover",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 405
+  },
+  {
+    "album": "left me yet",
+    "artist": "daya",
+    "genre": "pop",
+    "track": "left me yet",
+    "year": "2019",
+    "device": "?",
+    "id": 406
+  },
+  {
+    "album": "together through time",
+    "artist": "tupper ware remix party",
+    "genre": "rock",
+    "track": "starlight brigade",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 407
+  },
+  {
+    "album": "tradition",
+    "artist": "runtown",
+    "genre": "pop",
+    "track": "emotions",
+    "year": "2019",
+    "device": "?",
+    "id": 408
+  },
+  {
+    "album": "times we had",
+    "artist": "taylor ray holbrook",
+    "genre": "country",
+    "track": "times we had",
+    "year": "2017",
+    "device": "?",
+    "id": 409
+  },
+  {
+    "album": "avril lavigne",
+    "artist": "avril lavigne",
+    "genre": "pop",
+    "track": "let me go",
+    "year": "2013",
+    "device": "?",
+    "id": 410
+  },
+  {
+    "album": "laps around the sun",
+    "artist": "chris lane",
+    "genre": "country",
+    "track": "take back home girl",
+    "year": "2017",
+    "device": "living room",
+    "id": 411
+  },
+  {
+    "album": "without me",
+    "artist": "halsey",
+    "genre": "pop",
+    "track": "without me",
+    "year": "2018",
+    "device": "?",
+    "id": 412
+  },
+  {
+    "album": "we are not your kind",
+    "artist": "slipknot",
+    "genre": "metal",
+    "track": "solway firth",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 413
+  },
+  {
+    "album": "teenage dream",
+    "artist": "katy perry",
+    "genre": "pop",
+    "track": "teenage dream",
+    "year": "2010",
+    "device": "?",
+    "id": 414
+  },
+  {
+    "album": "blonde",
+    "artist": "frank ocean",
+    "genre": "pop",
+    "track": "nights",
+    "year": "2016",
+    "device": "?",
+    "id": 415
+  },
+  {
+    "album": "the gereg",
+    "artist": "the hu",
+    "genre": "rock",
+    "track": "wolf totem",
+    "year": "2018",
+    "device": "living room",
+    "id": 416
+  },
+  {
+    "album": "freaking me out",
+    "artist": "ava max",
+    "genre": "pop",
+    "track": "freaking me out",
+    "year": "2019",
+    "device": "?",
+    "id": 417
+  },
+  {
+    "album": "happiness",
+    "artist": "hurts",
+    "genre": "electropop",
+    "track": "wonderful life",
+    "year": "2010",
+    "device": "?",
+    "id": 418
+  },
+  {
+    "album": "unapologetic",
+    "artist": "rihanna",
+    "genre": "pop",
+    "track": "pour it up",
+    "year": "2012",
+    "device": "living room",
+    "id": 419
+  },
+  {
+    "album": "chill bill",
+    "artist": "rob stone",
+    "genre": "pop",
+    "track": "chill bill",
+    "year": "2016",
+    "device": "?",
+    "id": 420
+  },
+  {
+    "album": "shallow",
+    "artist": "pentatonix",
+    "genre": "pop",
+    "track": "shallow",
+    "year": "2019",
+    "device": "?",
+    "id": 421
+  },
+  {
+    "album": "the gaza don",
+    "artist": "vybz kartel",
+    "genre": "dancehall",
+    "track": "summer time",
+    "year": "2011",
+    "device": "living room",
+    "id": 422
+  },
+  {
+    "album": "lush life",
+    "artist": "zara larsson",
+    "genre": "pop",
+    "track": "lush life",
+    "year": "2015",
+    "device": "?",
+    "id": 423
+  },
+  {
+    "album": "skin",
+    "artist": "flume",
+    "genre": "electronica",
+    "track": "never be like you",
+    "year": "2016",
+    "device": "?",
+    "id": 424
+  },
+  {
+    "album": "hold you",
+    "artist": "basto",
+    "genre": "pop",
+    "track": "hold you",
+    "year": "2015",
+    "device": "?",
+    "id": 425
+  },
+  {
+    "album": "icarus falls",
+    "artist": "zayn malik",
+    "genre": "pop",
+    "track": "still got time",
+    "year": "2017",
+    "device": "living room",
+    "id": 426
+  },
+  {
+    "album": "blonde",
+    "artist": "frank ocean",
+    "genre": "pop",
+    "track": "ivy",
+    "year": "2016",
+    "device": "living room",
+    "id": 427
+  },
+  {
+    "album": "spectrum",
+    "artist": "westlife",
+    "genre": "pop",
+    "track": "hello my love",
+    "year": "2019",
+    "device": "?",
+    "id": 428
+  },
+  {
+    "album": "family",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "family",
+    "year": "2017",
+    "device": "?",
+    "id": 429
+  },
+  {
+    "album": "i hope",
+    "artist": "gabby barrett",
+    "genre": "country",
+    "track": "i hope",
+    "year": "2019",
+    "device": "?",
+    "id": 430
+  },
+  {
+    "album": "rainbow",
+    "artist": "kesha",
+    "genre": "pop",
+    "track": "praying",
+    "year": "2017",
+    "device": "patio",
+    "id": 431
+  },
+  {
+    "album": "free wired",
+    "artist": "far east movement",
+    "genre": "electropop",
+    "track": "rocketeer",
+    "year": "2010",
+    "device": "living room",
+    "id": 432
+  },
+  {
+    "album": "the martin garrix experience",
+    "artist": "martin garrix",
+    "genre": "house",
+    "track": "ocean",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 433
+  },
+  {
+    "album": "your name",
+    "artist": "radwimps",
+    "genre": "rock",
+    "track": "zenzenzense",
+    "year": "2016",
+    "device": "?",
+    "id": 434
+  },
+  {
+    "album": "yours truly",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "the way",
+    "year": "2013",
+    "device": "living room",
+    "id": 435
+  },
+  {
+    "album": "cry pretty",
+    "artist": "carrie underwood",
+    "genre": "pop",
+    "track": "the champion",
+    "year": "2018",
+    "device": "living room",
+    "id": 436
+  },
+  {
+    "album": "singular act i",
+    "artist": "sabrina carpenter",
+    "genre": "pop",
+    "track": "sue me",
+    "year": "2018",
+    "device": "?",
+    "id": 437
+  },
+  {
+    "album": "gold cobra",
+    "artist": "limp bizkit",
+    "genre": "metal",
+    "track": "gold cobra",
+    "year": "2011",
+    "device": "?",
+    "id": 438
+  },
+  {
+    "album": "got your six",
+    "artist": "five finger death punch",
+    "genre": "metal",
+    "track": "i apologize",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 439
+  },
+  {
+    "album": "sucker punch",
+    "artist": "sigrid",
+    "genre": "pop",
+    "track": "strangers",
+    "year": "2017",
+    "device": "kitchen",
+    "id": 440
+  },
+  {
+    "album": "captured",
+    "artist": "spice",
+    "genre": "reggae",
+    "track": "cool it",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 441
+  },
+  {
+    "album": "hat nhan",
+    "artist": "phan dinh tung",
+    "genre": "pop",
+    "track": "khuc hat mung sinh nhat",
+    "year": "2011",
+    "device": "kitchen",
+    "id": 442
+  },
+  {
+    "album": "it feel good",
+    "artist": "konshens",
+    "genre": "reggae",
+    "track": "bruk off yuh back",
+    "year": "2016",
+    "device": "living room",
+    "id": 443
+  },
+  {
+    "album": "victorious",
+    "artist": "skillet",
+    "genre": "rock",
+    "track": "save me",
+    "year": "2019",
+    "device": "?",
+    "id": 444
+  },
+  {
+    "album": "nayutan sei kara no buttai y",
+    "artist": "nayutalien",
+    "genre": "rock",
+    "track": "planet loop",
+    "year": "2016",
+    "device": "living room",
+    "id": 445
+  },
+  {
+    "album": "philosophical sessions",
+    "artist": "jacob lee",
+    "genre": "pop",
+    "track": "demons",
+    "year": "2017",
+    "device": "?",
+    "id": 446
+  },
+  {
+    "album": "gotta be me",
+    "artist": "cody johnson",
+    "genre": "country",
+    "track": "with you i am",
+    "year": "2016",
+    "device": "patio",
+    "id": 447
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "a ghost in the trenches",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 448
+  },
+  {
+    "album": "bollywood monsoon special",
+    "artist": "meet bros",
+    "genre": "south asia",
+    "track": "cham cham",
+    "year": "2016",
+    "device": "?",
+    "id": 449
+  },
+  {
+    "album": "fitness",
+    "artist": "lizzo",
+    "genre": "pop",
+    "track": "fitness",
+    "year": "2018",
+    "device": "?",
+    "id": 450
+  },
+  {
+    "album": "phobia",
+    "artist": "savannah sgro",
+    "genre": "pop",
+    "track": "phobia",
+    "year": "2018",
+    "device": "?",
+    "id": 451
+  },
+  {
+    "album": "everyday is christmas",
+    "artist": "sia",
+    "genre": "holiday",
+    "track": "snowman",
+    "year": "2017",
+    "device": "living room",
+    "id": 452
+  },
+  {
+    "album": "borbena",
+    "artist": "teodora",
+    "genre": "folk",
+    "track": "tom ford",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 453
+  },
+  {
+    "album": "maza mar liya dhori ke niche",
+    "artist": "shailesh premi",
+    "genre": "country",
+    "track": "lahnga lasar ke",
+    "year": "2019",
+    "device": "living room",
+    "id": 454
+  },
+  {
+    "album": "july",
+    "artist": "noah cyrus",
+    "genre": "pop",
+    "track": "july",
+    "year": "2019",
+    "device": "?",
+    "id": 455
+  },
+  {
+    "album": "raise vibration",
+    "artist": "lenny kravitz",
+    "genre": "rock",
+    "track": "low",
+    "year": "2018",
+    "device": "?",
+    "id": 456
+  },
+  {
+    "album": "blood",
+    "artist": "in this moment",
+    "genre": "metalcore",
+    "track": "adrenalize",
+    "year": "2012",
+    "device": "living room",
+    "id": 457
+  },
+  {
+    "album": "speak now",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "long live",
+    "year": "2010",
+    "device": "kitchen",
+    "id": 458
+  },
+  {
+    "album": "born this way",
+    "artist": "lady gaga",
+    "genre": "pop",
+    "track": "born this way",
+    "year": "2011",
+    "device": "?",
+    "id": 459
+  },
+  {
+    "album": "ardhito pramono",
+    "artist": "ardhito pramono",
+    "genre": "jazz",
+    "track": "the bitterlove",
+    "year": "2017",
+    "device": "?",
+    "id": 460
+  },
+  {
+    "album": "the older i get",
+    "artist": "alan jackson",
+    "genre": "country",
+    "track": "the older i get",
+    "year": "2017",
+    "device": "?",
+    "id": 461
+  },
+  {
+    "album": "phobia",
+    "artist": "savannah sgro",
+    "genre": "pop",
+    "track": "happy anymore",
+    "year": "2019",
+    "device": "?",
+    "id": 462
+  },
+  {
+    "album": "isolation",
+    "artist": "kali uchis",
+    "genre": "funk",
+    "track": "after the storm",
+    "year": "2018",
+    "device": "patio",
+    "id": 463
+  },
+  {
+    "album": "best kind of mess",
+    "artist": "get scared",
+    "genre": "rock",
+    "track": "sarcasm",
+    "year": "2010",
+    "device": "living room",
+    "id": 464
+  },
+  {
+    "album": "your name",
+    "artist": "radwimps",
+    "genre": "rock",
+    "track": "sparkle",
+    "year": "2016",
+    "device": "?",
+    "id": 465
+  },
+  {
+    "album": "your name",
+    "artist": "radwimps",
+    "genre": "rock",
+    "track": "dream lantern",
+    "year": "2016",
+    "device": "living room",
+    "id": 466
+  },
+  {
+    "album": "confident",
+    "artist": "demi lovato",
+    "genre": "pop",
+    "track": "confident",
+    "year": "2015",
+    "device": "?",
+    "id": 467
+  },
+  {
+    "album": "honky tonk time machine",
+    "artist": "george strait",
+    "genre": "country",
+    "track": "every little honky tonk bar",
+    "year": "2019",
+    "device": "?",
+    "id": 468
+  },
+  {
+    "album": "nine track mind",
+    "artist": "charlie puth",
+    "genre": "pop",
+    "track": "dangerously",
+    "year": "2015",
+    "device": "living room",
+    "id": 469
+  },
+  {
+    "album": "rearview town",
+    "artist": "jason aldean",
+    "genre": "country",
+    "track": "rearview town",
+    "year": "2018",
+    "device": "?",
+    "id": 470
+  },
+  {
+    "album": "rearview town",
+    "artist": "jason aldean",
+    "genre": "country",
+    "track": "you make it easy",
+    "year": "2018",
+    "device": "?",
+    "id": 471
+  },
+  {
+    "album": "rearview town",
+    "artist": "jason aldean",
+    "genre": "country",
+    "track": "girl like you",
+    "year": "2018",
+    "device": "living room",
+    "id": 472
+  },
+  {
+    "album": "pobrecita",
+    "artist": "mo temsamani",
+    "genre": "pop",
+    "track": "mana zina",
+    "year": "2018",
+    "device": "?",
+    "id": 473
+  },
+  {
+    "album": "sucker punch",
+    "artist": "sigrid",
+    "genre": "pop",
+    "track": "mine right now",
+    "year": "2019",
+    "device": "?",
+    "id": 474
+  },
+  {
+    "album": "breadwinner",
+    "artist": "prince swanny",
+    "genre": "reggae",
+    "track": "bread winner",
+    "year": "2019",
+    "device": "living room",
+    "id": 475
+  },
+  {
+    "album": "still standing",
+    "artist": "monica",
+    "genre": "pop",
+    "track": "love all over me",
+    "year": "2010",
+    "device": "?",
+    "id": 476
+  },
+  {
+    "album": "never give up",
+    "artist": "harmonize",
+    "genre": "pop",
+    "track": "never give up",
+    "year": "2019",
+    "device": "?",
+    "id": 477
+  },
+  {
+    "album": "blood",
+    "artist": "in this moment",
+    "genre": "metalcore",
+    "track": "blood",
+    "year": "2012",
+    "device": "?",
+    "id": 478
+  },
+  {
+    "album": "all the little lights",
+    "artist": "passenger",
+    "genre": "pop",
+    "track": "let her go",
+    "year": "2012",
+    "device": "kitchen",
+    "id": 479
+  },
+  {
+    "album": "soul rasta",
+    "artist": "fantan mojah",
+    "genre": "reggae",
+    "track": "rasta got soul",
+    "year": "2011",
+    "device": "?",
+    "id": 480
+  },
+  {
+    "album": "true colors",
+    "artist": "zedd",
+    "genre": "house",
+    "track": "beautiful now",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 481
+  },
+  {
+    "album": "reincarnation",
+    "artist": "tommy lee sparta",
+    "genre": "reggae",
+    "track": "top shotta",
+    "year": "2019",
+    "device": "living room",
+    "id": 482
+  },
+  {
+    "album": "dream girl",
+    "artist": "ir sais",
+    "genre": "latin pop",
+    "track": "dream girl",
+    "year": "2019",
+    "device": "?",
+    "id": 483
+  },
+  {
+    "album": "jara sa muskura dena",
+    "artist": "rakesh sutradhar",
+    "genre": "folk",
+    "track": "jara sa muskura dena",
+    "year": "2018",
+    "device": "?",
+    "id": 484
+  },
+  {
+    "album": "happiness begins",
+    "artist": "jonas brothers",
+    "genre": "pop",
+    "track": "sucker",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 485
+  },
+  {
+    "album": "built on glass",
+    "artist": "nick murphy",
+    "genre": "electronica",
+    "track": "gold",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 486
+  },
+  {
+    "album": "run",
+    "artist": "matthew mole",
+    "genre": "pop",
+    "track": "running after you",
+    "year": "2016",
+    "device": "living room",
+    "id": 487
+  },
+  {
+    "album": "hozier",
+    "artist": "hozier",
+    "genre": "blues",
+    "track": "work song",
+    "year": "2014",
+    "device": "?",
+    "id": 488
+  },
+  {
+    "album": "pass the jar",
+    "artist": "zac brown band",
+    "genre": "country",
+    "track": "colder weather",
+    "year": "2010",
+    "device": "kitchen",
+    "id": 489
+  },
+  {
+    "album": "you get what you give",
+    "artist": "zac brown band",
+    "genre": "country",
+    "track": "knee deep",
+    "year": "2010",
+    "device": "?",
+    "id": 490
+  },
+  {
+    "album": "outsider",
+    "artist": "three days grace",
+    "genre": "rock",
+    "track": "the mountain",
+    "year": "2018",
+    "device": "living room",
+    "id": 491
+  },
+  {
+    "album": "speak now",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "mine",
+    "year": "2010",
+    "device": "patio",
+    "id": 492
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "let me down slowly",
+    "year": "2018",
+    "device": "?",
+    "id": 493
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "boy in the bubble",
+    "year": "2018",
+    "device": "patio",
+    "id": 494
+  },
+  {
+    "album": "stronger",
+    "artist": "sara evans",
+    "genre": "country",
+    "track": "a little bit stronger",
+    "year": "2010",
+    "device": "living room",
+    "id": 495
+  },
+  {
+    "album": "victorious",
+    "artist": "skillet",
+    "genre": "rock",
+    "track": "victorious",
+    "year": "2019",
+    "device": "?",
+    "id": 496
+  },
+  {
+    "album": "the unforgiving",
+    "artist": "within temptation",
+    "genre": "metal",
+    "track": "faster",
+    "year": "2010",
+    "device": "patio",
+    "id": 497
+  },
+  {
+    "album": "where we come from",
+    "artist": "popcaan",
+    "genre": "reggae",
+    "track": "everything nice",
+    "year": "2013",
+    "device": "living room",
+    "id": 498
+  },
+  {
+    "album": "so mi like it",
+    "artist": "spice",
+    "genre": "reggae",
+    "track": "so mi like it",
+    "year": "2014",
+    "device": "?",
+    "id": 499
+  },
+  {
+    "album": "unapologetically",
+    "artist": "kelsea ballerini",
+    "genre": "country",
+    "track": "miss me more",
+    "year": "2017",
+    "device": "?",
+    "id": 500
+  },
+  {
+    "album": "yours",
+    "artist": "russell dickerson",
+    "genre": "country",
+    "track": "yours",
+    "year": "2015",
+    "device": "?",
+    "id": 501
+  },
+  {
+    "album": "last daze of summer",
+    "artist": "maleek berry",
+    "genre": "africa",
+    "track": "kontrol",
+    "year": "2016",
+    "device": "?",
+    "id": 502
+  },
+  {
+    "album": "camila",
+    "artist": "camila cabello",
+    "genre": "pop",
+    "track": "consequences",
+    "year": "2018",
+    "device": "living room",
+    "id": 503
+  },
+  {
+    "album": "sinner",
+    "artist": "aaron lewis",
+    "genre": "country",
+    "track": "lost and lonely",
+    "year": "2016",
+    "device": "living room",
+    "id": 504
+  },
+  {
+    "album": "loud",
+    "artist": "rihanna",
+    "genre": "reggae",
+    "track": "man down",
+    "year": "2010",
+    "device": "living room",
+    "id": 505
+  },
+  {
+    "album": "strange pleasures",
+    "artist": "still corners",
+    "genre": "electropop",
+    "track": "the trip",
+    "year": "2013",
+    "device": "living room",
+    "id": 506
+  },
+  {
+    "album": "home state",
+    "artist": "jordan davis",
+    "genre": "country",
+    "track": "singles you up",
+    "year": "2017",
+    "device": "?",
+    "id": 507
+  },
+  {
+    "album": "intuition",
+    "artist": "tyler shaw",
+    "genre": "pop",
+    "track": "with you",
+    "year": "2018",
+    "device": "living room",
+    "id": 508
+  },
+  {
+    "album": "lover",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "you need to calm down",
+    "year": "2019",
+    "device": "living room",
+    "id": 509
+  },
+  {
+    "album": "crust fm",
+    "artist": "engelwood",
+    "genre": "future funk",
+    "track": "crystal dolphin",
+    "year": "2017",
+    "device": "living room",
+    "id": 510
+  },
+  {
+    "album": "amos",
+    "artist": "michael ray",
+    "genre": "country",
+    "track": "her world or mine",
+    "year": "2018",
+    "device": "living room",
+    "id": 511
+  },
+  {
+    "album": "my world untouched",
+    "artist": "emma bale",
+    "genre": "pop",
+    "track": "all i want",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 512
+  },
+  {
+    "album": "gone",
+    "artist": "matthew david morris",
+    "genre": "pop",
+    "track": "gone",
+    "year": "2017",
+    "device": "?",
+    "id": 513
+  },
+  {
+    "album": "sanam",
+    "artist": "janob rasul",
+    "genre": "pop",
+    "track": "sanam",
+    "year": "2018",
+    "device": "?",
+    "id": 514
+  },
+  {
+    "album": "run",
+    "artist": "matthew mole",
+    "genre": "pop",
+    "track": "running after you",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 515
+  },
+  {
+    "album": "true believers",
+    "artist": "darius rucker",
+    "genre": "country",
+    "track": "wagon wheel",
+    "year": "2013",
+    "device": "kitchen",
+    "id": 516
+  },
+  {
+    "album": "the unforgiving",
+    "artist": "within temptation",
+    "genre": "metal",
+    "track": "faster",
+    "year": "2010",
+    "device": "living room",
+    "id": 517
+  },
+  {
+    "album": "middle finger",
+    "artist": "bohnes",
+    "genre": "pop",
+    "track": "middle finger",
+    "year": "2015",
+    "device": "?",
+    "id": 518
+  },
+  {
+    "album": "heartache medication",
+    "artist": "jon pardi",
+    "genre": "country",
+    "track": "heartache medication",
+    "year": "2019",
+    "device": "?",
+    "id": 519
+  },
+  {
+    "album": "goddess",
+    "artist": "cepheid",
+    "genre": "metal",
+    "track": "goddess",
+    "year": "2018",
+    "device": "?",
+    "id": 520
+  },
+  {
+    "album": "telling all my secrets",
+    "artist": "mitchell tenpenny",
+    "genre": "country",
+    "track": "drunk me",
+    "year": "2018",
+    "device": "patio",
+    "id": 521
+  },
+  {
+    "album": "new light",
+    "artist": "john mayer",
+    "genre": "pop",
+    "track": "new light",
+    "year": "2018",
+    "device": "?",
+    "id": 522
+  },
+  {
+    "album": "anthropology",
+    "artist": "baby genius",
+    "genre": "pop",
+    "track": "arty hearty",
+    "year": "2014",
+    "device": "living room",
+    "id": 523
+  },
+  {
+    "album": "the mountain",
+    "artist": "dierks bentley",
+    "genre": "country",
+    "track": "burning man",
+    "year": "2018",
+    "device": "living room",
+    "id": 524
+  },
+  {
+    "album": "loud",
+    "artist": "rihanna",
+    "genre": "pop",
+    "track": "california king bed",
+    "year": "2011",
+    "device": "living room",
+    "id": 525
+  },
+  {
+    "album": "the martin garrix experience",
+    "artist": "martin garrix",
+    "genre": "house",
+    "track": "no sleep",
+    "year": "2019",
+    "device": "kitchen",
+    "id": 526
+  },
+  {
+    "album": "golden hour",
+    "artist": "kacey musgraves",
+    "genre": "country",
+    "track": "rainbow",
+    "year": "2018",
+    "device": "?",
+    "id": 527
+  },
+  {
+    "album": "borbena",
+    "artist": "teodora",
+    "genre": "folk",
+    "track": "tom ford",
+    "year": "2019",
+    "device": "living room",
+    "id": 528
+  },
+  {
+    "album": "the colossus",
+    "artist": "cairo knife fight",
+    "genre": "rock",
+    "track": "rezlord",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 529
+  },
+  {
+    "album": "ancient future",
+    "artist": "protoje",
+    "genre": "reggae",
+    "track": "who knows",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 530
+  },
+  {
+    "album": "true colors",
+    "artist": "zedd",
+    "genre": "house",
+    "track": "beautiful now",
+    "year": "2015",
+    "device": "patio",
+    "id": 531
+  },
+  {
+    "album": "wicked game",
+    "artist": "frederick lloyd",
+    "genre": "classical",
+    "track": "wicked game",
+    "year": "2016",
+    "device": "?",
+    "id": 532
+  },
+  {
+    "album": "the purple heart riddim",
+    "artist": "nadia batson",
+    "genre": "reggae",
+    "track": "so long",
+    "year": "2018",
+    "device": "living room",
+    "id": 533
+  },
+  {
+    "album": "tell me you love me",
+    "artist": "cheat codes",
+    "genre": "pop",
+    "track": "no promises",
+    "year": "2017",
+    "device": "living room",
+    "id": 534
+  },
+  {
+    "album": "money fever",
+    "artist": "squash",
+    "genre": "reggae",
+    "track": "money fever",
+    "year": "2018",
+    "device": "?",
+    "id": 535
+  },
+  {
+    "album": "creeker",
+    "artist": "upchurch",
+    "genre": "rock",
+    "track": "pond creek road",
+    "year": "2018",
+    "device": "living room",
+    "id": 536
+  },
+  {
+    "album": "ancient future",
+    "artist": "protoje",
+    "genre": "reggae",
+    "track": "who knows",
+    "year": "2014",
+    "device": "living room",
+    "id": 537
+  },
+  {
+    "album": "love town",
+    "artist": "kolohe kai",
+    "genre": "reggae",
+    "track": "first true love",
+    "year": "2011",
+    "device": "patio",
+    "id": 538
+  },
+  {
+    "album": "lifelines",
+    "artist": "i prevail",
+    "genre": "metalcore",
+    "track": "scars",
+    "year": "2016",
+    "device": "living room",
+    "id": 539
+  },
+  {
+    "album": "speak now",
+    "artist": "taylor swift",
+    "genre": "pop",
+    "track": "mine",
+    "year": "2010",
+    "device": "kitchen",
+    "id": 540
+  },
+  {
+    "album": "telling all my secrets",
+    "artist": "mitchell tenpenny",
+    "genre": "country",
+    "track": "drunk me",
+    "year": "2018",
+    "device": "living room",
+    "id": 541
+  },
+  {
+    "album": "quarter",
+    "artist": "witwisit hiranyawongkul",
+    "genre": "pop",
+    "track": "fortunately i met you",
+    "year": "2014",
+    "device": "living room",
+    "id": 542
+  },
+  {
+    "album": "new eyes",
+    "artist": "clean bandit",
+    "genre": "electropop",
+    "track": "rather be",
+    "year": "2014",
+    "device": "?",
+    "id": 543
+  },
+  {
+    "album": "california sunrise",
+    "artist": "jon pardi",
+    "genre": "country",
+    "track": "head over boots",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 544
+  },
+  {
+    "album": "beautiful life",
+    "artist": "seantonio",
+    "genre": "downtempo",
+    "track": "beautiful life",
+    "year": "2018",
+    "device": "?",
+    "id": 545
+  },
+  {
+    "album": "cold water",
+    "artist": "major lazer",
+    "genre": "electropop",
+    "track": "cold water",
+    "year": "2016",
+    "device": "?",
+    "id": 546
+  },
+  {
+    "album": "who you are",
+    "artist": "jessie j",
+    "genre": "electropop",
+    "track": "domino",
+    "year": "2011",
+    "device": "?",
+    "id": 547
+  },
+  {
+    "album": "one more light",
+    "artist": "linkin park",
+    "genre": "electropop",
+    "track": "battle symphony",
+    "year": "2017",
+    "device": "living room",
+    "id": 548
+  },
+  {
+    "album": "chronologic",
+    "artist": "caravan palace",
+    "genre": "pop",
+    "track": "plume",
+    "year": "2019",
+    "device": "living room",
+    "id": 549
+  },
+  {
+    "album": "madame x",
+    "artist": "madonna",
+    "genre": "pop",
+    "track": "god control",
+    "year": "2019",
+    "device": "living room",
+    "id": 550
+  },
+  {
+    "album": "sing to me instead",
+    "artist": "ben platt",
+    "genre": "pop",
+    "track": "grow as we go",
+    "year": "2019",
+    "device": "living room",
+    "id": 551
+  },
+  {
+    "album": "holo",
+    "artist": "limbo",
+    "genre": "pop",
+    "track": "airplane mode",
+    "year": "2017",
+    "device": "kitchen",
+    "id": 552
+  },
+  {
+    "album": "love always",
+    "artist": "shane filan",
+    "genre": "pop",
+    "track": "beautiful in white",
+    "year": "2017",
+    "device": "patio",
+    "id": 553
+  },
+  {
+    "album": "boo thang",
+    "artist": "verse simmonds",
+    "genre": "pop",
+    "track": "boo thang",
+    "year": "2011",
+    "device": "?",
+    "id": 554
+  },
+  {
+    "album": "surfers paradise",
+    "artist": "cody simpson",
+    "genre": "pop",
+    "track": "la da dee",
+    "year": "2013",
+    "device": "living room",
+    "id": 555
+  },
+  {
+    "album": "tomahawk technique",
+    "artist": "sean paul",
+    "genre": "reggae",
+    "track": "how deep is your love",
+    "year": "2012",
+    "device": "living room",
+    "id": 556
+  },
+  {
+    "album": "bangarang",
+    "artist": "skrillex",
+    "genre": "soundtracks",
+    "track": "bangarang",
+    "year": "2011",
+    "device": "?",
+    "id": 557
+  },
+  {
+    "album": "title",
+    "artist": "meghan trainor",
+    "genre": "pop",
+    "track": "all about that bass",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 558
+  },
+  {
+    "album": "royalty",
+    "artist": "chris brown",
+    "genre": "funk",
+    "track": "liquor",
+    "year": "2015",
+    "device": "?",
+    "id": 559
+  },
+  {
+    "album": "g i r l",
+    "artist": "pharrell williams",
+    "genre": "pop",
+    "track": "come get it bae",
+    "year": "2014",
+    "device": "living room",
+    "id": 560
+  },
+  {
+    "album": "moon landing",
+    "artist": "james blunt",
+    "genre": "pop",
+    "track": "always hate me",
+    "year": "2013",
+    "device": "living room",
+    "id": 561
+  },
+  {
+    "album": "unorthodox jukebox",
+    "artist": "bruno mars",
+    "genre": "disco",
+    "track": "treasure",
+    "year": "2012",
+    "device": "?",
+    "id": 562
+  },
+  {
+    "album": "burlesque original motion picture soundtrack",
+    "artist": "christina aguilera",
+    "genre": "soundtracks",
+    "track": "express",
+    "year": "2010",
+    "device": "?",
+    "id": 563
+  },
+  {
+    "album": "believe",
+    "artist": "justin bieber",
+    "genre": "pop",
+    "track": "boyfriend",
+    "year": "2012",
+    "device": "living room",
+    "id": 564
+  },
+  {
+    "album": "shub out",
+    "artist": "tee jay",
+    "genre": "reggae",
+    "track": "shub out",
+    "year": "2019",
+    "device": "?",
+    "id": 565
+  },
+  {
+    "album": "if i know me",
+    "artist": "morgan wallen",
+    "genre": "country",
+    "track": "whiskey glasses",
+    "year": "2018",
+    "device": "?",
+    "id": 566
+  },
+  {
+    "album": "yomonsan",
+    "artist": "janob rasul",
+    "genre": "pop",
+    "track": "yomonsan",
+    "year": "2017",
+    "device": "?",
+    "id": 567
+  },
+  {
+    "album": "my everything",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "one last time",
+    "year": "2014",
+    "device": "living room",
+    "id": 568
+  },
+  {
+    "album": "the new classic",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "black widow",
+    "year": "2014",
+    "device": "kitchen",
+    "id": 569
+  },
+  {
+    "album": "your name",
+    "artist": "radwimps",
+    "genre": "rock",
+    "track": "dream lantern",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 570
+  },
+  {
+    "album": "old dominion",
+    "artist": "old dominion",
+    "genre": "country",
+    "track": "some people do",
+    "year": "2019",
+    "device": "?",
+    "id": 571
+  },
+  {
+    "album": "el anillo",
+    "artist": "jennifer lopez",
+    "genre": "pop",
+    "track": "el anillo",
+    "year": "2018",
+    "device": "?",
+    "id": 572
+  },
+  {
+    "album": "lahure",
+    "artist": "chhewang lama",
+    "genre": "folk",
+    "track": "lahure",
+    "year": "2019",
+    "device": "?",
+    "id": 573
+  },
+  {
+    "album": "melodrama",
+    "artist": "lorde",
+    "genre": "electropop",
+    "track": "supercut",
+    "year": "2017",
+    "device": "?",
+    "id": 574
+  },
+  {
+    "album": "assume form",
+    "artist": "james blake",
+    "genre": "pop",
+    "track": "barefoot in the park",
+    "year": "2019",
+    "device": "living room",
+    "id": 575
+  },
+  {
+    "album": "a war you cannot win",
+    "artist": "all that remains",
+    "genre": "metalcore",
+    "track": "what if i was nothing",
+    "year": "2012",
+    "device": "patio",
+    "id": 576
+  },
+  {
+    "album": "nick jonas",
+    "artist": "nick jonas",
+    "genre": "pop",
+    "track": "jealous",
+    "year": "2014",
+    "device": "?",
+    "id": 577
+  },
+  {
+    "album": "originals",
+    "artist": "prince",
+    "genre": "pop",
+    "track": "holly rock",
+    "year": "2019",
+    "device": "?",
+    "id": 578
+  },
+  {
+    "album": "your name",
+    "artist": "radwimps",
+    "genre": "rock",
+    "track": "nandemonaiya",
+    "year": "2016",
+    "device": "living room",
+    "id": 579
+  },
+  {
+    "album": "expectations",
+    "artist": "hayley kiyoko",
+    "genre": "pop",
+    "track": "curious",
+    "year": "2018",
+    "device": "living room",
+    "id": 580
+  },
+  {
+    "album": "mantra",
+    "artist": "rasta",
+    "genre": "pop",
+    "track": "mantra",
+    "year": "2019",
+    "device": "?",
+    "id": 581
+  },
+  {
+    "album": "lee brice",
+    "artist": "lee brice",
+    "genre": "country",
+    "track": "rumor",
+    "year": "2017",
+    "device": "?",
+    "id": 582
+  },
+  {
+    "album": "good company",
+    "artist": "the dead south",
+    "genre": "folk",
+    "track": "banjo odyssey",
+    "year": "2013",
+    "device": "living room",
+    "id": 583
+  },
+  {
+    "album": "loser",
+    "artist": "sasha sloan",
+    "genre": "pop",
+    "track": "older",
+    "year": "2018",
+    "device": "?",
+    "id": 584
+  },
+  {
+    "album": "joanne",
+    "artist": "lady gaga",
+    "genre": "pop",
+    "track": "perfect illusion",
+    "year": "2016",
+    "device": "patio",
+    "id": 585
+  },
+  {
+    "album": "who you are",
+    "artist": "jessie j",
+    "genre": "electropop",
+    "track": "mamma knows best",
+    "year": "2011",
+    "device": "living room",
+    "id": 586
+  },
+  {
+    "album": "glory days",
+    "artist": "little mix",
+    "genre": "pop",
+    "track": "no more sad songs",
+    "year": "2016",
+    "device": "?",
+    "id": 587
+  },
+  {
+    "album": "more than that",
+    "artist": "lauren jauregui",
+    "genre": "pop",
+    "track": "more than that",
+    "year": "2019",
+    "device": "?",
+    "id": 588
+  },
+  {
+    "album": "wake up dreaming",
+    "artist": "stephanie mabey",
+    "genre": "pop",
+    "track": "the zombie song",
+    "year": "2012",
+    "device": "living room",
+    "id": 589
+  },
+  {
+    "album": "yours",
+    "artist": "russell dickerson",
+    "genre": "country",
+    "track": "blue tacoma",
+    "year": "2016",
+    "device": "living room",
+    "id": 590
+  },
+  {
+    "album": "a boy from tandale",
+    "artist": "diamond platnumz",
+    "genre": "pop",
+    "track": "african beauty",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 591
+  },
+  {
+    "album": "one more light",
+    "artist": "linkin park",
+    "genre": "electropop",
+    "track": "battle symphony",
+    "year": "2017",
+    "device": "patio",
+    "id": 592
+  },
+  {
+    "album": "my darkest days",
+    "artist": "my darkest days",
+    "genre": "rock",
+    "track": "porn star dancing",
+    "year": "2010",
+    "device": "?",
+    "id": 593
+  },
+  {
+    "album": "rage valley",
+    "artist": "knife party",
+    "genre": "dubstep",
+    "track": "centipede",
+    "year": "2012",
+    "device": "living room",
+    "id": 594
+  },
+  {
+    "album": "victorious",
+    "artist": "skillet",
+    "genre": "rock",
+    "track": "legendary",
+    "year": "2019",
+    "device": "patio",
+    "id": 595
+  },
+  {
+    "album": "honey",
+    "artist": "johnny balik",
+    "genre": "pop",
+    "track": "honey",
+    "year": "2018",
+    "device": "?",
+    "id": 596
+  },
+  {
+    "album": "undefined",
+    "artist": "simply three",
+    "genre": "rock",
+    "track": "rain",
+    "year": "2017",
+    "device": "living room",
+    "id": 597
+  },
+  {
+    "album": "the great war",
+    "artist": "sabaton",
+    "genre": "metal",
+    "track": "the red baron",
+    "year": "2019",
+    "device": "living room",
+    "id": 598
+  },
+  {
+    "album": "hate how much i love you",
+    "artist": "conor maynard",
+    "genre": "pop",
+    "track": "hate how much i love you",
+    "year": "2019",
+    "device": "?",
+    "id": 599
+  },
+  {
+    "album": "cry pretty",
+    "artist": "carrie underwood",
+    "genre": "pop",
+    "track": "the champion",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 600
+  },
+  {
+    "album": "illinois",
+    "artist": "brett eldredge",
+    "genre": "country",
+    "track": "lose my mind",
+    "year": "2015",
+    "device": "kitchen",
+    "id": 601
+  },
+  {
+    "album": "camila",
+    "artist": "camila cabello",
+    "genre": "pop",
+    "track": "she loves control",
+    "year": "2018",
+    "device": "?",
+    "id": 602
+  },
+  {
+    "album": "the new classic",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "bounce",
+    "year": "2013",
+    "device": "living room",
+    "id": 603
+  },
+  {
+    "album": "summer house",
+    "artist": "concorde",
+    "genre": "pop",
+    "track": "just kiss her",
+    "year": "2012",
+    "device": "living room",
+    "id": 604
+  },
+  {
+    "album": "euphoria",
+    "artist": "enrique iglesias",
+    "genre": "pop",
+    "track": "i like it",
+    "year": "2010",
+    "device": "kitchen",
+    "id": 605
+  },
+  {
+    "album": "the first time",
+    "artist": "kelsea ballerini",
+    "genre": "country",
+    "track": "peter pan",
+    "year": "2015",
+    "device": "living room",
+    "id": 606
+  },
+  {
+    "album": "welcome to the fishbowl",
+    "artist": "kenny chesney",
+    "genre": "country",
+    "track": "come over",
+    "year": "2012",
+    "device": "living room",
+    "id": 607
+  },
+  {
+    "album": "madame x",
+    "artist": "madonna",
+    "genre": "pop",
+    "track": "batuka",
+    "year": "2019",
+    "device": "patio",
+    "id": 608
+  },
+  {
+    "album": "my dream",
+    "artist": "karolina protsenko",
+    "genre": "pop",
+    "track": "despacito",
+    "year": "2018",
+    "device": "?",
+    "id": 609
+  },
+  {
+    "album": "kill the lights",
+    "artist": "luke bryan",
+    "genre": "country",
+    "track": "strip it down",
+    "year": "2015",
+    "device": "?",
+    "id": 610
+  },
+  {
+    "album": "a star is born soundtrack",
+    "artist": "lady gaga",
+    "genre": "soundtracks",
+    "track": "look what i found",
+    "year": "2018",
+    "device": "?",
+    "id": 611
+  },
+  {
+    "album": "climate change",
+    "artist": "pitbull",
+    "genre": "pop",
+    "track": "options",
+    "year": "2017",
+    "device": "living room",
+    "id": 612
+  },
+  {
+    "album": "halcyon",
+    "artist": "ellie goulding",
+    "genre": "pop",
+    "track": "burn",
+    "year": "2012",
+    "device": "living room",
+    "id": 613
+  },
+  {
+    "album": "gotta be me",
+    "artist": "cody johnson",
+    "genre": "country",
+    "track": "with you i am",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 614
+  },
+  {
+    "album": "the nothing",
+    "artist": "korn",
+    "genre": "metal",
+    "track": "cold",
+    "year": "2019",
+    "device": "living room",
+    "id": 615
+  },
+  {
+    "album": "the getaway",
+    "artist": "red hot chili peppers",
+    "genre": "rock",
+    "track": "dark necessities",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 616
+  },
+  {
+    "album": "burlesque original motion picture soundtrack",
+    "artist": "christina aguilera",
+    "genre": "soundtracks",
+    "track": "tough lover",
+    "year": "2010",
+    "device": "kitchen",
+    "id": 617
+  },
+  {
+    "album": "slow air",
+    "artist": "still corners",
+    "genre": "pop",
+    "track": "black lagoon",
+    "year": "2018",
+    "device": "patio",
+    "id": 618
+  },
+  {
+    "album": "believe",
+    "artist": "justin bieber",
+    "genre": "pop",
+    "track": "boyfriend",
+    "year": "2012",
+    "device": "kitchen",
+    "id": 619
+  },
+  {
+    "album": "when was the last time",
+    "artist": "darius rucker",
+    "genre": "country",
+    "track": "if i told you",
+    "year": "2017",
+    "device": "patio",
+    "id": 620
+  },
+  {
+    "album": "pain killer",
+    "artist": "little big town",
+    "genre": "country",
+    "track": "girl crush",
+    "year": "2014",
+    "device": "living room",
+    "id": 621
+  },
+  {
+    "album": "my everything",
+    "artist": "ariana grande",
+    "genre": "pop",
+    "track": "best mistake",
+    "year": "2014",
+    "device": "living room",
+    "id": 622
+  },
+  {
+    "album": "outsider",
+    "artist": "three days grace",
+    "genre": "rock",
+    "track": "the mountain",
+    "year": "2018",
+    "device": "patio",
+    "id": 623
+  },
+  {
+    "album": "single",
+    "artist": "maggie lindemann",
+    "genre": "pop",
+    "track": "pretty girl",
+    "year": "2016",
+    "device": "?",
+    "id": 624
+  },
+  {
+    "album": "do it again",
+    "artist": "pia mia",
+    "genre": "pop",
+    "track": "do it again",
+    "year": "2015",
+    "device": "?",
+    "id": 625
+  },
+  {
+    "album": "raabta",
+    "artist": "arijit singh",
+    "genre": "south asia",
+    "track": "ik vaari aa",
+    "year": "2017",
+    "device": "living room",
+    "id": 626
+  },
+  {
+    "album": "narrated for you",
+    "artist": "alec benjamin",
+    "genre": "pop",
+    "track": "boy in the bubble",
+    "year": "2018",
+    "device": "living room",
+    "id": 627
+  },
+  {
+    "album": "hold on",
+    "artist": "chord overstreet",
+    "genre": "pop",
+    "track": "hold on",
+    "year": "2017",
+    "device": "?",
+    "id": 628
+  },
+  {
+    "album": "i have questions",
+    "artist": "camila cabello",
+    "genre": "pop",
+    "track": "i have questions",
+    "year": "2017",
+    "device": "?",
+    "id": 629
+  },
+  {
+    "album": "california sunrise",
+    "artist": "jon pardi",
+    "genre": "country",
+    "track": "night shift",
+    "year": "2016",
+    "device": "living room",
+    "id": 630
+  },
+  {
+    "album": "big a presents one chance riddim",
+    "artist": "shenseea",
+    "genre": "reggae",
+    "track": "time up",
+    "year": "2017",
+    "device": "living room",
+    "id": 631
+  },
+  {
+    "album": "big a presents one chance riddim",
+    "artist": "shenseea",
+    "genre": "reggae",
+    "track": "time up",
+    "year": "2017",
+    "device": "kitchen",
+    "id": 632
+  },
+  {
+    "album": "black widow",
+    "artist": "in this moment",
+    "genre": "metalcore",
+    "track": "sick like me",
+    "year": "2014",
+    "device": "patio",
+    "id": 633
+  },
+  {
+    "album": "never know",
+    "artist": "discrete",
+    "genre": "pop",
+    "track": "never know",
+    "year": "2018",
+    "device": "?",
+    "id": 634
+  },
+  {
+    "album": "witness",
+    "artist": "katy perry",
+    "genre": "pop",
+    "track": "hey hey hey",
+    "year": "2017",
+    "device": "living room",
+    "id": 635
+  },
+  {
+    "album": "get weird",
+    "artist": "little mix",
+    "genre": "pop",
+    "track": "love me like you",
+    "year": "2015",
+    "device": "living room",
+    "id": 636
+  },
+  {
+    "album": "camila",
+    "artist": "camila cabello",
+    "genre": "pop",
+    "track": "real friends",
+    "year": "2017",
+    "device": "living room",
+    "id": 637
+  },
+  {
+    "album": "get weird",
+    "artist": "little mix",
+    "genre": "pop",
+    "track": "love me like you",
+    "year": "2015",
+    "device": "patio",
+    "id": 638
+  },
+  {
+    "album": "the black",
+    "artist": "asking alexandria",
+    "genre": "metalcore",
+    "track": "the black",
+    "year": "2016",
+    "device": "?",
+    "id": 639
+  },
+  {
+    "album": "wintersaga",
+    "artist": "wind rose",
+    "genre": "metal",
+    "track": "diggy diggy hole",
+    "year": "2019",
+    "device": "patio",
+    "id": 640
+  },
+  {
+    "album": "brett young",
+    "artist": "brett young",
+    "genre": "country",
+    "track": "mercy",
+    "year": "2017",
+    "device": "?",
+    "id": 641
+  },
+  {
+    "album": "the story",
+    "artist": "fivefold",
+    "genre": "rock",
+    "track": "lost within",
+    "year": "2012",
+    "device": "living room",
+    "id": 642
+  },
+  {
+    "album": "charice",
+    "artist": "jake zyrus",
+    "genre": "pop",
+    "track": "pyramid",
+    "year": "2010",
+    "device": "patio",
+    "id": 643
+  },
+  {
+    "album": "money",
+    "artist": "michael kiwanuka",
+    "genre": "disco",
+    "track": "money",
+    "year": "2019",
+    "device": "?",
+    "id": 644
+  },
+  {
+    "album": "starting over",
+    "artist": "niykee heaton",
+    "genre": "pop",
+    "track": "mascara",
+    "year": "2018",
+    "device": "patio",
+    "id": 645
+  },
+  {
+    "album": "intuition",
+    "artist": "tyler shaw",
+    "genre": "pop",
+    "track": "with you",
+    "year": "2018",
+    "device": "kitchen",
+    "id": 646
+  },
+  {
+    "album": "starboy",
+    "artist": "the weeknd",
+    "genre": "disco",
+    "track": "i feel it coming",
+    "year": "2016",
+    "device": "patio",
+    "id": 647
+  },
+  {
+    "album": "current mood",
+    "artist": "dustin lynch",
+    "genre": "country",
+    "track": "small town boy",
+    "year": "2017",
+    "device": "patio",
+    "id": 648
+  },
+  {
+    "album": "lady wood",
+    "artist": "tove lo",
+    "genre": "electropop",
+    "track": "cool girl",
+    "year": "2016",
+    "device": "kitchen",
+    "id": 649
+  },
+  {
+    "album": "the end is where we begin",
+    "artist": "thousand foot krutch",
+    "genre": "rock",
+    "track": "be somebody",
+    "year": "2012",
+    "device": "patio",
+    "id": 650
+  },
+  {
+    "album": "me kemaste",
+    "artist": "el taiger",
+    "genre": "latin",
+    "track": "me kemaste",
+    "year": "2018",
+    "device": "?",
+    "id": 651
+  },
+  {
+    "album": "the new classic",
+    "artist": "iggy azalea",
+    "genre": "pop",
+    "track": "work",
+    "year": "2013",
+    "device": "living room",
+    "id": 652
+  },
+  {
+    "album": "love i got for u",
+    "artist": "shenseea",
+    "genre": "reggae",
+    "track": "love i got for u",
+    "year": "2018",
+    "device": "?",
+    "id": 653
+  },
+  {
+    "album": "unapologetic",
+    "artist": "rihanna",
+    "genre": "pop",
+    "track": "stay",
+    "year": "2012",
+    "device": "living room",
+    "id": 654
+  },
+  {
+    "album": "always in between",
+    "artist": "jess glynne",
+    "genre": "pop",
+    "track": "thursday",
+    "year": "2018",
+    "device": "living room",
+    "id": 655
+  },
+  {
+    "album": "the end is where we begin",
+    "artist": "thousand foot krutch",
+    "genre": "rock",
+    "track": "be somebody",
+    "year": "2012",
+    "device": "kitchen",
+    "id": 656
+  },
+  {
+    "album": "raees",
+    "artist": "pavni pandey",
+    "genre": "south asia",
+    "track": "laila main laila",
+    "year": "2017",
+    "device": "kitchen",
+    "id": 657
+  }
+]

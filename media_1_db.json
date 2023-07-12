@@ -1,0 +1,765 @@
+[
+  {
+    "directed_by": "brian de palma",
+    "genre": "mystery",
+    "subtitles": "true",
+    "title": "body double",
+    "id": 0
+  },
+  {
+    "directed_by": "neil burger",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "the upside",
+    "id": 1
+  },
+  {
+    "directed_by": "laure de clermont-tonnerre",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "the mustang",
+    "id": 2
+  },
+  {
+    "directed_by": "dean deblois",
+    "genre": "animation",
+    "subtitles": "false",
+    "title": "how to train your dragon: the hidden world",
+    "id": 3
+  },
+  {
+    "directed_by": "sebastian lelio",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "gloria bell",
+    "id": 4
+  },
+  {
+    "directed_by": "justin kelly",
+    "genre": "biographical",
+    "subtitles": "false",
+    "title": "jt leroy",
+    "id": 5
+  },
+  {
+    "directed_by": "jia zhangke",
+    "genre": "crime",
+    "subtitles": "false",
+    "title": "ash is purest white",
+    "id": 6
+  },
+  {
+    "directed_by": "stanley kubrick",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "dr. strangelove",
+    "id": 7
+  },
+  {
+    "directed_by": "orson welles",
+    "genre": "mystery",
+    "subtitles": "false",
+    "title": "citizen kane",
+    "id": 8
+  },
+  {
+    "directed_by": "robert budreau",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "stockholm",
+    "id": 9
+  },
+  {
+    "directed_by": "neil marshall",
+    "genre": "fantasy",
+    "subtitles": "false",
+    "title": "hellboy",
+    "id": 10
+  },
+  {
+    "directed_by": "michael chaves",
+    "genre": "horror",
+    "subtitles": "false",
+    "title": "the curse of la llorona",
+    "id": 11
+  },
+  {
+    "directed_by": "anthony maras",
+    "genre": "thriller",
+    "subtitles": "true",
+    "title": "hotel mumbai",
+    "id": 12
+  },
+  {
+    "directed_by": "qui sheng",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "suburban birds",
+    "id": 13
+  },
+  {
+    "directed_by": "peter farrelly",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "green book",
+    "id": 14
+  },
+  {
+    "directed_by": "chris butler",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "missing link",
+    "id": 15
+  },
+  {
+    "directed_by": "garth davis",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "mary magdalene",
+    "id": 16
+  },
+  {
+    "directed_by": "hiroyasu ishida",
+    "genre": "fantasy",
+    "subtitles": "true",
+    "title": "penguin highway",
+    "id": 17
+  },
+  {
+    "directed_by": "james kent",
+    "genre": "war",
+    "subtitles": "false",
+    "title": "the aftermath",
+    "id": 18
+  },
+  {
+    "directed_by": "simon jaquemet",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "the innocent",
+    "id": 19
+  },
+  {
+    "directed_by": "roxann dawson",
+    "genre": "biographical",
+    "subtitles": "true",
+    "title": "breakthrough",
+    "id": 20
+  },
+  {
+    "directed_by": "eric khoo",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "ramen shop",
+    "id": 21
+  },
+  {
+    "directed_by": "max minghella",
+    "genre": "musical",
+    "subtitles": "false",
+    "title": "teen spirit",
+    "id": 22
+  },
+  {
+    "directed_by": "likarion wainaina",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "supa modo",
+    "id": 23
+  },
+  {
+    "directed_by": "claus rafle",
+    "genre": "documentary",
+    "subtitles": "false",
+    "title": "the invisibles",
+    "id": 24
+  },
+  {
+    "directed_by": "eric khoo",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "ramen shop",
+    "id": 25
+  },
+  {
+    "directed_by": "alfred hitchcock",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "the man who knew too much",
+    "id": 26
+  },
+  {
+    "directed_by": "james kent",
+    "genre": "war",
+    "subtitles": "true",
+    "title": "the aftermath",
+    "id": 27
+  },
+  {
+    "directed_by": "anthony maras",
+    "genre": "thriller",
+    "subtitles": "false",
+    "title": "hotel mumbai",
+    "id": 28
+  },
+  {
+    "directed_by": "george miller",
+    "genre": "fantasy",
+    "subtitles": "true",
+    "title": "mad max: fury road",
+    "id": 29
+  },
+  {
+    "directed_by": "david sandberg",
+    "genre": "adventure",
+    "subtitles": "false",
+    "title": "shazam!",
+    "id": 30
+  },
+  {
+    "directed_by": "laszlo nemes",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "sunset",
+    "id": 31
+  },
+  {
+    "directed_by": "martin scorsese",
+    "genre": "biographical",
+    "subtitles": "false",
+    "title": "shine a light",
+    "id": 32
+  },
+  {
+    "directed_by": "sebastian lelio",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "gloria bell",
+    "id": 33
+  },
+  {
+    "directed_by": "dean deblois",
+    "genre": "animation",
+    "subtitles": "true",
+    "title": "how to train your dragon: the hidden world",
+    "id": 34
+  },
+  {
+    "directed_by": "laura steinel",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "family",
+    "id": 35
+  },
+  {
+    "directed_by": "tyler perry",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "a madea family funeral",
+    "id": 36
+  },
+  {
+    "directed_by": "george sidney",
+    "genre": "romance",
+    "subtitles": "true",
+    "title": "viva las vegas",
+    "id": 37
+  },
+  {
+    "directed_by": "laure de clermont-tonnerre",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "the mustang",
+    "id": 38
+  },
+  {
+    "directed_by": "malik bendjelloul",
+    "genre": "biographical",
+    "subtitles": "false",
+    "title": "searching for sugar man",
+    "id": 39
+  },
+  {
+    "directed_by": "kevin kolsch",
+    "genre": "thriller",
+    "subtitles": "true",
+    "title": "pet sematary",
+    "id": 40
+  },
+  {
+    "directed_by": "martin scorsese",
+    "genre": "biographical",
+    "subtitles": "true",
+    "title": "shine a light",
+    "id": 41
+  },
+  {
+    "directed_by": "michael chaves",
+    "genre": "horror",
+    "subtitles": "true",
+    "title": "the curse of la llorona",
+    "id": 42
+  },
+  {
+    "directed_by": "stephen merchant",
+    "genre": "sports",
+    "subtitles": "false",
+    "title": "fighting with my family",
+    "id": 43
+  },
+  {
+    "directed_by": "laura steinel",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "family",
+    "id": 44
+  },
+  {
+    "directed_by": "anna boden",
+    "genre": "adventure",
+    "subtitles": "true",
+    "title": "captain marvel",
+    "id": 45
+  },
+  {
+    "directed_by": "david sandberg",
+    "genre": "adventure",
+    "subtitles": "true",
+    "title": "shazam!",
+    "id": 46
+  },
+  {
+    "directed_by": "ronald neame",
+    "genre": "adventure",
+    "subtitles": "true",
+    "title": "the poseidon adventure",
+    "id": 47
+  },
+  {
+    "directed_by": "joel coen",
+    "genre": "adventure",
+    "subtitles": "true",
+    "title": "true grit",
+    "id": 48
+  },
+  {
+    "directed_by": "joel coen",
+    "genre": "adventure",
+    "subtitles": "false",
+    "title": "true grit",
+    "id": 49
+  },
+  {
+    "directed_by": "morton dacosta",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "auntie mame",
+    "id": 50
+  },
+  {
+    "directed_by": "stanley kubrick",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "dr. strangelove",
+    "id": 51
+  },
+  {
+    "directed_by": "peter farrelly",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "green book",
+    "id": 52
+  },
+  {
+    "directed_by": "harry elfont",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "josie and the pussycats",
+    "id": 53
+  },
+  {
+    "directed_by": "tina gordon",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "little",
+    "id": 54
+  },
+  {
+    "directed_by": "jonathan levine",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "long shot",
+    "id": 55
+  },
+  {
+    "directed_by": "chris butler",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "missing link",
+    "id": 56
+  },
+  {
+    "directed_by": "likarion wainaina",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "supa modo",
+    "id": 57
+  },
+  {
+    "directed_by": "tim burton",
+    "genre": "fantasy",
+    "subtitles": "false",
+    "title": "dumbo",
+    "id": 58
+  },
+  {
+    "directed_by": "tyler perry",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "a madea family funeral",
+    "id": 59
+  },
+  {
+    "directed_by": "justin kelly",
+    "genre": "biographical",
+    "subtitles": "true",
+    "title": "jt leroy",
+    "id": 60
+  },
+  {
+    "directed_by": "roxann dawson",
+    "genre": "biographical",
+    "subtitles": "false",
+    "title": "breakthrough",
+    "id": 61
+  },
+  {
+    "directed_by": "matteo garrone",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "dogman",
+    "id": 62
+  },
+  {
+    "directed_by": "iain softley",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "hackers",
+    "id": 63
+  },
+  {
+    "directed_by": "claire denis",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "high life",
+    "id": 64
+  },
+  {
+    "directed_by": "nia dacosta",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "little woods",
+    "id": 65
+  },
+  {
+    "directed_by": "garth davis",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "mary magdalene",
+    "id": 66
+  },
+  {
+    "directed_by": "trevor nunn",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "red joan",
+    "id": 67
+  },
+  {
+    "directed_by": "qui sheng",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "suburban birds",
+    "id": 68
+  },
+  {
+    "directed_by": "madeleine olnek",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "wild nights with emily",
+    "id": 69
+  },
+  {
+    "directed_by": "jenny gage",
+    "genre": "romance",
+    "subtitles": "true",
+    "title": "after",
+    "id": 70
+  },
+  {
+    "directed_by": "michael gordon",
+    "genre": "romance",
+    "subtitles": "true",
+    "title": "pillow talk",
+    "id": 71
+  },
+  {
+    "directed_by": "cameron crowe",
+    "genre": "romance",
+    "subtitles": "true",
+    "title": "say anything",
+    "id": 72
+  },
+  {
+    "directed_by": "tom mccarthy",
+    "genre": "romance",
+    "subtitles": "true",
+    "title": "the visitor",
+    "id": 73
+  },
+  {
+    "directed_by": "stephen merchant",
+    "genre": "sports",
+    "subtitles": "true",
+    "title": "fighting with my family",
+    "id": 74
+  },
+  {
+    "directed_by": "elaine may",
+    "genre": "mafia",
+    "subtitles": "false",
+    "title": "mikey and nicky",
+    "id": 75
+  },
+  {
+    "directed_by": "orson welles",
+    "genre": "mystery",
+    "subtitles": "true",
+    "title": "citizen kane",
+    "id": 76
+  },
+  {
+    "directed_by": "alfred hitchcock",
+    "genre": "crime",
+    "subtitles": "true",
+    "title": "blackmail - cinemix par chloe",
+    "id": 77
+  },
+  {
+    "directed_by": "max minghella",
+    "genre": "musical",
+    "subtitles": "true",
+    "title": "teen spirit",
+    "id": 78
+  },
+  {
+    "directed_by": "tina gordon",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "little",
+    "id": 79
+  },
+  {
+    "directed_by": "ronald neame",
+    "genre": "adventure",
+    "subtitles": "false",
+    "title": "the poseidon adventure",
+    "id": 80
+  },
+  {
+    "directed_by": "neil burger",
+    "genre": "comedy",
+    "subtitles": "true",
+    "title": "the upside",
+    "id": 81
+  },
+  {
+    "directed_by": "matteo garrone",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "dogman",
+    "id": 82
+  },
+  {
+    "directed_by": "robin bissell",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "the best of enemies",
+    "id": 83
+  },
+  {
+    "directed_by": "jia zhangke",
+    "genre": "crime",
+    "subtitles": "true",
+    "title": "ash is purest white",
+    "id": 84
+  },
+  {
+    "directed_by": "michael schultz",
+    "genre": "action",
+    "subtitles": "true",
+    "title": "the last dragon",
+    "id": 85
+  },
+  {
+    "directed_by": "michael schultz",
+    "genre": "action",
+    "subtitles": "false",
+    "title": "the last dragon",
+    "id": 86
+  },
+  {
+    "directed_by": "rachel lears",
+    "genre": "documentary",
+    "subtitles": "false",
+    "title": "knock down the house",
+    "id": 87
+  },
+  {
+    "directed_by": "hiroyasu ishida",
+    "genre": "fantasy",
+    "subtitles": "false",
+    "title": "penguin highway",
+    "id": 88
+  },
+  {
+    "directed_by": "madeleine olnek",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "wild nights with emily",
+    "id": 89
+  },
+  {
+    "directed_by": "claire denis",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "high life",
+    "id": 90
+  },
+  {
+    "directed_by": "michael gordon",
+    "genre": "romance",
+    "subtitles": "false",
+    "title": "pillow talk",
+    "id": 91
+  },
+  {
+    "directed_by": "kevin kolsch",
+    "genre": "thriller",
+    "subtitles": "false",
+    "title": "pet sematary",
+    "id": 92
+  },
+  {
+    "directed_by": "simon jaquemet",
+    "genre": "drama",
+    "subtitles": "true",
+    "title": "the innocent",
+    "id": 93
+  },
+  {
+    "directed_by": "robert budreau",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "stockholm",
+    "id": 94
+  },
+  {
+    "directed_by": "jonathan levine",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "long shot",
+    "id": 95
+  },
+  {
+    "directed_by": "laszlo nemes",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "sunset",
+    "id": 96
+  },
+  {
+    "directed_by": "george miller",
+    "genre": "fantasy",
+    "subtitles": "false",
+    "title": "mad max: fury road",
+    "id": 97
+  },
+  {
+    "directed_by": "christian petzold",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "transit",
+    "id": 98
+  },
+  {
+    "directed_by": "alfred hitchcock",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "the man who knew too much",
+    "id": 99
+  },
+  {
+    "directed_by": "george sidney",
+    "genre": "romance",
+    "subtitles": "false",
+    "title": "viva las vegas",
+    "id": 100
+  },
+  {
+    "directed_by": "tom mccarthy",
+    "genre": "romance",
+    "subtitles": "false",
+    "title": "the visitor",
+    "id": 101
+  },
+  {
+    "directed_by": "anna boden",
+    "genre": "adventure",
+    "subtitles": "false",
+    "title": "captain marvel",
+    "id": 102
+  },
+  {
+    "directed_by": "morton dacosta",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "auntie mame",
+    "id": 103
+  },
+  {
+    "directed_by": "harry elfont",
+    "genre": "comedy",
+    "subtitles": "false",
+    "title": "josie and the pussycats",
+    "id": 104
+  },
+  {
+    "directed_by": "iain softley",
+    "genre": "drama",
+    "subtitles": "false",
+    "title": "hackers",
+    "id": 105
+  },
+  {
+    "directed_by": "cameron crowe",
+    "genre": "romance",
+    "subtitles": "false",
+    "title": "say anything",
+    "id": 106
+  },
+  {
+    "directed_by": "brian de palma",
+    "genre": "mystery",
+    "subtitles": "false",
+    "title": "body double",
+    "id": 107
+  },
+  {
+    "directed_by": "jenny gage",
+    "genre": "romance",
+    "subtitles": "false",
+    "title": "after",
+    "id": 108
+  }
+]
